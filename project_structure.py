@@ -14,7 +14,7 @@ list_of_files = [
     f"{project_name}/loggers/__init__.py",
     f"{project_name}/loggers/logger.py",
     f"{project_name}/exceptions/__init__.py",
-    f"{project_name}/exceptions/cspExpection.py",
+    f"{project_name}/exceptions/CCExpection.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/tools.py",
     f"{project_name}/entity/__init__.py",
