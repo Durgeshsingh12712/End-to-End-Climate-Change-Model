@@ -1,0 +1,19 @@
+numpy
+pandas
+json
+PyYAML
+box
+scikit-learn
+matplotlib
+requests
+urblib3
+seaborn
+pickle
+zipfile
+textblob
+scipy
+xgboost
+flask
+ensure
+
+-e .
