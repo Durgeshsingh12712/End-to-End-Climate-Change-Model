@@ -1,0 +1,66 @@
+# Data parameters
+TEST_SIZE: 0.2
+RANDOM_STATE: 42
+TARGET_COLUMN: temperature_anomaly
+
+# Feature engineering parameters
+SEQUENCE_LENGTH: 12
+LAG_FEATURES: [1, 3, 6, 12]
+ROLLING_WINDOWS: [3, 6, 12]
+
+# Model parameters
+model_params:
+  RandomForestRegressor:
+    n_estimators: [50, 100, 200]
+    max_depth: [5, 10, 15, null]
+    min_samples_split: [2, 5, 10]
+    min_samples_leaf: [1, 2, 4]
+    random_state: [42]
+  
+  LinearRegression: {}
+  
+  GradientBoostingRegressor:
+    n_estimators: [50, 100, 200]
+    learning_rate: [0.05, 0.1, 0.2]
+    max_depth: [3, 5, 7]
+    random_state: [42]
+  
+  XGBRegressor:
+    n_estimators: [50, 100, 200]
+    learning_rate: [0.05, 0.1, 0.2]
+    max_depth: [3, 5, 7]
+    random_state: [42]
+
+# LSTM parameters
+lstm_params:
+  sequence_length: 12
+  lstm_units: [50, 100]
+  dropout: 0.2
+  epochs: 100
+  batch_size: 32
+  validation_split: 0.2
+
+# Evaluation metrics
+evaluation_metrics:
+  regression:
+    - mae
+    - mse
+    - rmse
+    - r2_score
+    - mape
+
+# Data drift detection
+drift_detection:
+  reference_data_path: artifacts/data_ingestion/reference_data.csv
+  drift_threshold: 0.05
+  statistical_tests:
+    - ks_test
+    - psi
+    - chi_square
+
+# Model monitoring
+monitoring:
+  model_performance_threshold: 0.8
+  data_drift_threshold: 0.1
+  prediction_drift_threshold: 0.1
+  retraining_threshold: 0.05

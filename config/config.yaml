@@ -1,0 +1,10 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  climate_data_url: https://climate.nasa.gov/api/temperature-data
+  social_data_url: https://api.github.com/repos/nasa/climate-data
+  climate_data_path: artifacts/data_ingestion/climate_data.csv
+  social_data_path: artifacts/data_ingestion/social_data.csv
+  raw_data_path: artifacts/data_ingestion/raw_data
+  unzip_dir: artifacts/data_ingestion/unzipped

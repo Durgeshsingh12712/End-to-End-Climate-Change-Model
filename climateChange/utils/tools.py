@@ -106,6 +106,20 @@ def save_object(file_path, obj):
     except Exception as e:
         logger.error(f"Error Saving object to {file_path}: {e}")
         raise CCException(e, sys)
+
+@ensure_annotations
+def get_size(path: Path) -> str:
+    """
+    Get size in KB
+    
+    Args:
+        path (Path): path of the file
+        
+    Returns:
+        str: size in KB
+    """
+    size_in_kb = round(os.path.getsize(path)/1024)
+    return f"~ {size_in_kb} KB"
     
 def evaluate_models(X_train, y_train, X_test, y_test, models: dict, param: dict):
     """
