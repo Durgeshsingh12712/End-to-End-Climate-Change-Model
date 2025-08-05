@@ -1,0 +1,18 @@
+schema:
+  CLIMATE_COLUMNS:
+    date: datetime64[ns]
+    temperature_anomaly: float64
+    precipitation_anomaly: float64
+    co2_concentration: float64
+    sea_level_change: float64
+    solar_radiation: float64
+  
+  SOCIAL_COLUMNS:
+    date: datetime64[ns]
+    text: object
+    sentiment: float64
+    likesCount: int64
+    commentsCount: int64
+    profileName: object
+
+TARGET_COLUMN: temperature_anomaly

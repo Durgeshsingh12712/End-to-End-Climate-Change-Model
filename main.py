@@ -11,3 +11,12 @@ try:
 except Exception as e:
     logger.exception(e)
     raise CCException(e, sys)
+
+try:
+    logger.info(f">>>>>>> Data Validation Started <<<<<<<")
+    data_validation = TrainingPipeline()
+    data_validation.data_validation()
+    logger.info(f">>>>>>> Data Validation Completed <<<<<<<")
+except Exception as e:
+    logger.exception(e)
+    raise CCException(e, sys)

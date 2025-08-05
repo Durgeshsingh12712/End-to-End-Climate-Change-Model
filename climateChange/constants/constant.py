@@ -4,6 +4,8 @@ from pathlib import Path
 # Base paths
 CONFIG_FILE_PATH = Path("config/config.yaml")
 PARAMS_FILE_PATH = Path("config/params.yaml")
+SCHEMA_FILE_PATH = Path("schema.yaml")
+
 
 # Artifact paths
 DATA_INGESTION_ARTIFACTS = Path("artifacts/data_ingestion")

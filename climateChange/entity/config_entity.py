@@ -11,3 +11,11 @@ class DataIngestionConfig:
     social_data_path: Path
     raw_data_path: Path
     unzip_dir: Path
+
+@dataclass(frozen=True)
+class DataValidationConfig:
+    root_dir: Path
+    unzip_data_dir: Path
+    climate_schema: Dict[str, Any]
+    social_schema: Dict[str, Any]
+    status_file: Path

@@ -10,3 +10,12 @@ class DataIngestionArtifact:
     is_ingested: bool
     message: str
     
+@dataclass
+class DataValidationArtifact:
+    validation_status: bool
+    climate_data_validation_status: bool
+    social_data_validation_status: bool
+    missing_columns: Dict[str, list]
+    data_drift_status: bool
+    validation_report_path: Path
+    message: str

@@ -8,3 +8,8 @@ data_ingestion:
   social_data_path: artifacts/data_ingestion/social_data.csv
   raw_data_path: artifacts/data_ingestion/raw_data
   unzip_dir: artifacts/data_ingestion/unzipped
+
+data_validation:
+  root_dir: artifacts/data_validation
+  unzip_data_dir: artifacts/data_ingestion/unzipped
+  status_file: artifacts/data_validation/status.txt
