@@ -19,3 +19,13 @@ class DataValidationArtifact:
     data_drift_status: bool
     validation_report_path: Path
     message: str
+
+@dataclass
+class DataTransformationArtifact:
+    transformed_train_path: Path
+    transformed_test_path: Path
+    preprocessor_path: Path
+    feature_names: list
+    transformation_status: bool
+    message: str
+    

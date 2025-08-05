@@ -13,3 +13,13 @@ data_validation:
   root_dir: artifacts/data_validation
   unzip_data_dir: artifacts/data_ingestion/unzipped
   status_file: artifacts/data_validation/status.txt
+
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: artifacts/data_ingestion
+  tokenizer_name: textblob
+  max_features: 5000
+  sequence_length: 100
+  preprocessor_path: artifacts/data_transformation/preprocessor.pkl
+  transformed_train_path: artifacts/data_transformation/train.csv
+  transformed_test_path: artifacts/data_transformation/test.csv

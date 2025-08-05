@@ -19,3 +19,16 @@ class DataValidationConfig:
     climate_schema: Dict[str, Any]
     social_schema: Dict[str, Any]
     status_file: Path
+
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
+    tokenizer_name: str
+    max_features: int
+    sequence_length: int
+    test_size:float
+    random_state: int
+    preprocessor_path: Path
+    transformed_train_path: Path
+    transformed_test_path: Path

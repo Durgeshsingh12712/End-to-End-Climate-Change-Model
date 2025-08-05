@@ -4,6 +4,7 @@ from climateChange.utils import read_yaml, create_directories
 from climateChange.entity import (
     DataIngestionConfig,
     DataValidationConfig,
+    DataTransformationConfig
 )
 
 class ConfigurationManager:
@@ -51,3 +52,23 @@ class ConfigurationManager:
         )
         
         return data_validation_config
+    
+    def get_data_transformation_config(self) -> DataTransformationConfig:
+        config = self.config['data_transformation']
+
+        create_directories([config['root_dir']])
+
+        data_transformation_config = DataTransformationConfig(
+            root_dir=config['root_dir'],
+            data_path=config['data_path'],
+            tokenizer_name=config['tokenizer_name'],
+            max_features=config['max_features'],
+            sequence_length=config['sequence_length'],
+            test_size=self.params['TEST_SIZE'],
+            random_state=self.params['RANDOM_STATE'],
+            preprocessor_path=config['preprocessor_path'],
+            transformed_train_path=config['transformed_train_path'],
+            transformed_test_path=config['transformed_test_path']
+        )
+
+        return data_transformation_config

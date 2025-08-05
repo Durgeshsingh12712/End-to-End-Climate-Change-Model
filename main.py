@@ -20,3 +20,12 @@ try:
 except Exception as e:
     logger.exception(e)
     raise CCException(e, sys)
+
+try:
+    logger.info(f">>>>>>> Data Transformation Started <<<<<<<")
+    data_transformation = TrainingPipeline()
+    data_transformation.data_tranformation()
+    logger.info(f">>>>>>> Data Transformation Completed <<<<<<<")
+except Exception as e:
+    logger.exception(e)
+    raise CCException(e, sys)
