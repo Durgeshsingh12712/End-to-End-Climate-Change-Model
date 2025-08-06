@@ -29,3 +29,12 @@ class DataTransformationArtifact:
     transformation_status: bool
     message: str
     
+@dataclass
+class ModelTrainerArtifact:
+    trained_model_path: Path
+    train_metric_artifact: Dict[str, float]
+    test_metric_artifact: Dict[str, float]
+    model_accuracy: float
+    model_name: str
+    is_trained: bool
+    message: str

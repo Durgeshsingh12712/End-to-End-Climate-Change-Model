@@ -29,3 +29,12 @@ try:
 except Exception as e:
     logger.exception(e)
     raise CCException(e, sys)
+
+try:
+    logger.info(f">>>>>>> Model Trainer Started <<<<<<<")
+    model_trainer = TrainingPipeline()
+    model_trainer.model_trainer()
+    logger.info(f">>>>>>> Model Trainer Completed <<<<<<<")
+except Exception as e:
+    logger.exception(e)
+    raise CCException(e, sys)

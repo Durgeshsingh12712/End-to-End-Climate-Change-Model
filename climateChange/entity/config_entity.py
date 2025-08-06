@@ -32,3 +32,13 @@ class DataTransformationConfig:
     preprocessor_path: Path
     transformed_train_path: Path
     transformed_test_path: Path
+@dataclass(frozen=True)
+class ModelTrainerConfig:
+    root_dir: Path
+    train_data_path: Path
+    test_data_path: Path
+    model_name: str
+    target_column: str
+    params: Dict[str, Any]
+    trained_model_path: Path
+    model_metrics_path: Path
