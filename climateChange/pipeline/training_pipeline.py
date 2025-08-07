@@ -3,7 +3,8 @@ from climateChange.components import (
     DataIngestion,
     DataValidation,
     DataTransformation,
-    ModelTrainer
+    ModelTrainer,
+    ModelEvaluation
 )
 
 class TrainingPipeline:
@@ -33,3 +34,9 @@ class TrainingPipeline:
         model_trainer_config = config.get_model_trainer_config()
         model_trainer = ModelTrainer(config=model_trainer_config)
         model_trainer_artifact = model_trainer.initiate_model_trainer()
+    
+    def model_evaluation(self):
+        config = ConfigurationManager()
+        model_evaluation_config = config.get_model_evaluation_config()
+        model_evaluation = ModelEvaluation(config=model_evaluation_config)
+        model_evaluation_artifact = model_evaluation.initiate_model_evaluation()

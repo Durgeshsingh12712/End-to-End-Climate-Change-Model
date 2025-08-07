@@ -38,3 +38,13 @@ try:
 except Exception as e:
     logger.exception(e)
     raise CCException(e, sys)
+
+
+try:
+    logger.info(f">>>>>>> Model Evaluation Started <<<<<<<")
+    model_evaluation = TrainingPipeline()
+    model_evaluation.model_evaluation()
+    logger.info(f">>>>>>> Model Evaluation Completed <<<<<<<")
+except Exception as e:
+    logger.exception(e)
+    raise CCException(e, sys)

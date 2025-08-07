@@ -42,3 +42,13 @@ class ModelTrainerConfig:
     params: Dict[str, Any]
     trained_model_path: Path
     model_metrics_path: Path
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    test_data_path: Path
+    model_path: Path
+    preprocessor_path: Path
+    metric_file_name: Path
+    target_column: str
+    all_params: Dict[str, Any]

@@ -38,3 +38,16 @@ class ModelTrainerArtifact:
     model_name: str
     is_trained: bool
     message: str
+
+@dataclass
+class ModelEvaluationArtifact:
+    is_model_accepted: bool
+    improved_accuracy: float
+    best_model_path: Path
+    trained_model_path: Path
+    train_model_metric_artifact: Dict[str, float]
+    best_model_metric_artifact: Dict[str, float]
+    evaluation_report_path: Path
+    difference: float
+    message: str
+    
