@@ -1,0 +1,260 @@
+{% extends 'base.html' %}
+
+{% block title %}Climate Prediction - NASA Climate Predictor{% endblock %}
+
+{% block content %}
+<div class="main-container">
+    <div class="text-center mb-4">
+        <h2 class="display-5 fw-bold text-primary">
+            <i class="fas fa-chart-line me-2"></i>
+            Climate Prediction System
+        </h2>
+        <p class="lead text-muted">Enter climate parameters to get predictions</p>
+    </div>
+    
+    {% if results is defined %}
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <div class="row align-items-center">
+            <div class="col-md-2 text-center">
+                <i class="fas fa-check-circle fa-3x"></i>
+            </div>
+            <div class="col-md-10">
+                <h5 class="alert-heading">Prediction Result</h5>
+                <p class="mb-0">
+                    <strong>Predicted Value: {{ "%.4f"|format(results) }}</strong>
+                </p>
+                <small class="text-muted">This prediction is based on the climate parameters you provided.</small>
+            </div>
+        </div>
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+    {% endif %}
+    
+    {% if error is defined %}
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <div class="row align-items-center">
+            <div class="col-md-2 text-center">
+                <i class="fas fa-exclamation-triangle fa-3x"></i>
+            </div>
+            <div class="col-md-10">
+                <h5 class="alert-heading">Prediction Error</h5>
+                <p class="mb-0">{{ error }}</p>
+            </div>
+        </div>
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+    {% endif %}
+    
+    <form action="/predictdata" method="post">
+        <div class="row g-4">
+            <!-- Climate Variables Section -->
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="mb-0">
+                            <i class="fas fa-globe me-2"></i>
+                            Climate Variables (Required)
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label for="precipitation_anomaly" class="form-label">
+                                    <i class="fas fa-cloud-rain me-1"></i>
+                                    Precipitation Anomaly
+                                </label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="precipitation_anomaly" name="precipitation_anomaly" 
+                                       placeholder="e.g., 0.5" required>
+                                <div class="form-text">Deviation from normal precipitation (mm)</div>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="co2_concentration" class="form-label">
+                                    <i class="fas fa-smog me-1"></i>
+                                    CO2 Concentration
+                                </label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="co2_concentration" name="co2_concentration" 
+                                       placeholder="e.g., 415.0" required>
+                                <div class="form-text">Atmospheric CO2 levels (ppm)</div>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="sea_level_change" class="form-label">
+                                    <i class="fas fa-water me-1"></i>
+                                    Sea Level Change
+                                </label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="sea_level_change" name="sea_level_change" 
+                                       placeholder="e.g., 3.2" required>
+                                <div class="form-text">Sea level change (mm/year)</div>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="solar_radiation" class="form-label">
+                                    <i class="fas fa-sun me-1"></i>
+                                    Solar Radiation
+                                </label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="solar_radiation" name="solar_radiation" 
+                                       placeholder="e.g., 1361.0" required>
+                                <div class="form-text">Solar irradiance (W/m²)</div>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="temperature_anomaly" class="form-label">
+                                    <i class="fas fa-thermometer-half me-1"></i>
+                                    Temperature Anomaly
+                                </label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="temperature_anomaly" name="temperature_anomaly" 
+                                       placeholder="e.g., 1.2" required>
+                                <div class="form-text">Temperature deviation from baseline (°C)</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Time Variables Section -->
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header bg-secondary text-white">
+                        <h5 class="mb-0">
+                            <i class="fas fa-calendar me-2"></i>
+                            Time Parameters (Required)
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label for="year" class="form-label">
+                                    <i class="fas fa-calendar-alt me-1"></i>
+                                    Year
+                                </label>
+                                <input type="number" class="form-control" id="year" name="year" 
+                                       min="2000" max="2030" placeholder="e.g., 2024" required>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="month" class="form-label">
+                                    <i class="fas fa-calendar-day me-1"></i>
+                                    Month
+                                </label>
+                                <select class="form-control" id="month" name="month" required>
+                                    <option value="">Select Month</option>
+                                    <option value="1">January</option>
+                                    <option value="2">February</option>
+                                    <option value="3">March</option>
+                                    <option value="4">April</option>
+                                    <option value="5">May</option>
+                                    <option value="6">June</option>
+                                    <option value="7">July</option>
+                                    <option value="8">August</option>
+                                    <option value="9">September</option>
+                                    <option value="10">October</option>
+                                    <option value="11">November</option>
+                                    <option value="12">December</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Social Media Features Section (Optional) -->
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header bg-info text-white">
+                        <h5 class="mb-0">
+                            <i class="fas fa-share-alt me-2"></i>
+                            Social Media Features (Optional)
+                            <button type="button" class="btn btn-sm btn-outline-light ms-2" 
+                                    onclick="toggleOptionalFields()">
+                                <i class="fas fa-chevron-down" id="toggleIcon"></i>
+                            </button>
+                        </h5>
+                    </div>
+                    <div class="card-body" id="optionalFields" style="display: none;">
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                <label for="sentiment_mean" class="form-label">Sentiment Mean</label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="sentiment_mean" name="sentiment_mean" 
+                                       placeholder="0.0" value="0.0">
+                            </div>
+                            <div class="col-md-4">
+                                <label for="sentiment_std" class="form-label">Sentiment Std</label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="sentiment_std" name="sentiment_std" 
+                                       placeholder="0.1" value="0.1">
+                            </div>
+                            <div class="col-md-4">
+                                <label for="sentiment_count" class="form-label">Sentiment Count</label>
+                                <input type="number" class="form-control" 
+                                       id="sentiment_count" name="sentiment_count" 
+                                       placeholder="100" value="100">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="likesCount_mean" class="form-label">Likes Count Mean</label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="likesCount_mean" name="likesCount_mean" 
+                                       placeholder="10.0" value="10.0">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="commentsCount_mean" class="form-label">Comments Count Mean</label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="commentsCount_mean" name="commentsCount_mean" 
+                                       placeholder="5.0" value="5.0">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="total_engagement_mean" class="form-label">Total Engagement Mean</label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="total_engagement_mean" name="total_engagement_mean" 
+                                       placeholder="15.0" value="15.0">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="engagement_ratio_mean" class="form-label">Engagement Ratio Mean</label>
+                                <input type="number" step="0.01" class="form-control" 
+                                       id="engagement_ratio_mean" name="engagement_ratio_mean" 
+                                       placeholder="0.5" value="0.5">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="text-center mt-4">
+            <button type="submit" class="btn btn-primary btn-lg">
+                <i class="fas fa-chart-line me-2"></i>
+                Generate Prediction
+            </button>
+            <button type="reset" class="btn btn-outline-secondary btn-lg ms-3">
+                <i class="fas fa-undo me-2"></i>
+                Reset Form
+            </button>
+        </div>
+    </form>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+function toggleOptionalFields() {
+    const optionalFields = document.getElementById('optionalFields');
+    const toggleIcon = document.getElementById('toggleIcon');
+    
+    if (optionalFields.style.display === 'none') {
+        optionalFields.style.display = 'block';
+        toggleIcon.className = 'fas fa-chevron-up';
+    } else {
+        optionalFields.style.display = 'none';
+        toggleIcon.className = 'fas fa-chevron-down';
+    }
+}
+
+// Set default values for current date
+document.addEventListener('DOMContentLoaded', function() {
+    const currentDate = new Date();
+    document.getElementById('year').value = currentDate.getFullYear();
+    document.getElementById('month').value = currentDate.getMonth() + 1;
+});
+</script>
+{% endblock %}

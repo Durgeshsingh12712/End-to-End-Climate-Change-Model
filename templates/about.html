@@ -1,0 +1,182 @@
+{% extends 'base.html' %}
+
+{% block title %}About - NASA Climate Predictor{% endblock %}
+
+{% block content %}
+<div class="main-container">
+    <div class="text-center mb-5">
+        <h2 class="display-5 fw-bold text-primary">
+            <i class="fas fa-info-circle me-2"></i>
+            About NASA Climate Predictor
+        </h2>
+        <p class="lead text-muted">Understanding our climate prediction system</p>
+    </div>
+    
+    <div class="row g-4">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title text-primary">
+                        <i class="fas fa-robot me-2"></i>
+                        Machine Learning Model
+                    </h4>
+                    <p class="card-text">
+                        Our climate prediction system utilizes advanced machine learning algorithms trained on 
+                        comprehensive climate datasets. The model analyzes multiple environmental variables 
+                        including atmospheric conditions, oceanic patterns, and solar radiation to generate 
+                        accurate climate predictions.
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-secondary">
+                        <i class="fas fa-database me-2"></i>
+                        Data Sources
+                    </h5>
+                    <ul class="list-unstyled">
+                        <li><i class="fas fa-check text-success me-2"></i>NASA Climate Data Repository</li>
+                        <li><i class="fas fa-check text-success me-2"></i>NOAA Weather Stations</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Satellite Observations</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Ocean Monitoring Systems</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Atmospheric CO2 Measurements</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-6">
+            <div class="card h-100">
+                <div class="card-body">
+                    <h5 class="card-title text-secondary">
+                        <i class="fas fa-cogs me-2"></i>
+                        Key Features
+                    </h5>
+                    <ul class="list-unstyled">
+                        <li><i class="fas fa-check text-success me-2"></i>Multi-variable Analysis</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Real-time Predictions</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Historical Pattern Recognition</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Social Media Sentiment Integration</li>
+                        <li><i class="fas fa-check text-success me-2"></i>Interactive Web Interface</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title text-primary">
+                        <i class="fas fa-chart-line me-2"></i>
+                        How It Works
+                    </h4>
+                    <div class="row g-3">
+                        <div class="col-md-3 text-center">
+                            <div class="feature-icon text-info">
+                                <i class="fas fa-upload"></i>
+                            </div>
+                            <h6>1. Input Data</h6>
+                            <p class="small text-muted">Enter climate parameters and time variables</p>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <div class="feature-icon text-warning">
+                                <i class="fas fa-cog"></i>
+                            </div>
+                            <h6>2. Feature Engineering</h6>
+                            <p class="small text-muted">Process and transform input features</p>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <div class="feature-icon text-primary">
+                                <i class="fas fa-brain"></i>
+                            </div>
+                            <h6>3. ML Processing</h6>
+                            <p class="small text-muted">Apply trained machine learning model</p>
+                        </div>
+                        <div class="col-md-3 text-center">
+                            <div class="feature-icon text-success">
+                                <i class="fas fa-chart-bar"></i>
+                            </div>
+                            <h6>4. Generate Prediction</h6>
+                            <p class="small text-muted">Return climate prediction results</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title text-primary">
+                        <i class="fas fa-exclamation-triangle me-2"></i>
+                        Model Input Variables
+                    </h4>
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <h6 class="text-secondary">Climate Variables:</h6>
+                            <ul class="small">
+                                <li><strong>Precipitation Anomaly:</strong> Deviation from normal rainfall patterns</li>
+                                <li><strong>CO2 Concentration:</strong> Atmospheric carbon dioxide levels</li>
+                                <li><strong>Sea Level Change:</strong> Rate of global sea level rise</li>
+                                <li><strong>Solar Radiation:</strong> Solar irradiance measurements</li>
+                                <li><strong>Temperature Anomaly:</strong> Temperature deviation from baseline</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h6 class="text-secondary">Additional Features:</h6>
+                            <ul class="small">
+                                <li><strong>Temporal Features:</strong> Year, month, season, cyclical components</li>
+                                <li><strong>Social Media Data:</strong> Climate sentiment analysis (optional)</li>
+                                <li><strong>Engagement Metrics:</strong> Social media interaction data (optional)</li>
+                                <li><strong>Derived Features:</strong> Automatically calculated trend indicators</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-12">
+            <div class="alert alert-warning">
+                <div class="row align-items-center">
+                    <div class="col-md-2 text-center">
+                        <i class="fas fa-exclamation-triangle fa-3x"></i>
+                    </div>
+                    <div class="col-md-10">
+                        <h5 class="alert-heading">Important Disclaimer</h5>
+                        <p class="mb-0">
+                            This prediction system is designed for research and educational purposes. 
+                            While our model is trained on real climate data, predictions should not be 
+                            used as the sole basis for critical decision-making. Always consult official 
+                            meteorological and climate agencies for authoritative climate information.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-12">
+            <div class="card bg-light">
+                <div class="card-body text-center">
+                    <h4 class="card-title text-primary">
+                        <i class="fas fa-globe-americas me-2"></i>
+                        Contributing to Climate Science
+                    </h4>
+                    <p class="card-text">
+                        By using our prediction system, you're contributing to the advancement of 
+                        climate science and machine learning applications in environmental research. 
+                        Together, we can better understand and predict our changing climate.
+                    </p>
+                    <a href="/predictdata" class="btn btn-primary">
+                        <i class="fas fa-chart-line me-2"></i>
+                        Try the Predictor
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

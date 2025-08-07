@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+
+{% block title %}NASA Climate Predictor - Home{% endblock %}
+
+{% block content %}
+<div class="main-container">
+    <div class="text-center mb-5">
+        <div class="climate-icon">
+            <i class="fas fa-earth-americas"></i>
+        </div>
+        <h1 class="display-4 fw-bold text-primary mb-3">NASA Climate Predictor</h1>
+        <p class="lead text-muted">Advanced Machine Learning for Climate Pattern Analysis</p>
+    </div>
+    
+    <div class="row g-4 mb-5">
+        <div class="col-md-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <div class="feature-icon">
+                        <i class="fas fa-thermometer-half"></i>
+                    </div>
+                    <h5 class="card-title">Temperature Analysis</h5>
+                    <p class="card-text">Predict temperature anomalies based on multiple climate variables and historical patterns.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <div class="feature-icon">
+                        <i class="fas fa-cloud-rain"></i>
+                    </div>
+                    <h5 class="card-title">Precipitation Modeling</h5>
+                    <p class="card-text">Analyze precipitation patterns and their relationship with other climate indicators.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <div class="feature-icon">
+                        <i class="fas fa-smog"></i>
+                    </div>
+                    <h5 class="card-title">CO2 Monitoring</h5>
+                    <p class="card-text">Track CO2 concentration levels and their impact on global climate systems.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h4 class="card-title mb-4">Get Climate Predictions</h4>
+                    <p class="card-text mb-4">
+                        Our advanced machine learning model analyzes multiple climate variables including 
+                        temperature, precipitation, CO2 levels, sea level changes, and solar radiation 
+                        to provide accurate climate predictions.
+                    </p>
+                    <a href="/predictdata" class="btn btn-primary btn-lg">
+                        <i class="fas fa-chart-line me-2"></i>
+                        Start Prediction
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-5">
+        <div class="col-12">
+            <div class="alert alert-info">
+                <div class="row align-items-center">
+                    <div class="col-md-2 text-center">
+                        <i class="fas fa-info-circle fa-3x"></i>
+                    </div>
+                    <div class="col-md-10">
+                        <h5 class="alert-heading">How It Works</h5>
+                        <p class="mb-0">
+                            This prediction system uses a trained machine learning model that analyzes 
+                            historical climate data, atmospheric conditions, and social media sentiment 
+                            to predict climate patterns. Input your climate parameters to get instant predictions.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
