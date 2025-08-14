@@ -5,7 +5,6 @@ python-box
 scikit-learn
 matplotlib
 requests
-urblib3
 seaborn
 pickle
 zipfile
