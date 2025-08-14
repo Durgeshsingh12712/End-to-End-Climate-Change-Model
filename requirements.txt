@@ -6,7 +6,6 @@ scikit-learn
 matplotlib
 requests
 seaborn
-zipfile
 textblob
 scipy
 xgboost
