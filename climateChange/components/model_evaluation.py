@@ -21,8 +21,8 @@ class ModelEvaluation:
             
             test_df = pd.read_csv(self.config.test_data_path)
             
-            model = load_object(self.config.model_path)
-            preprocessor = load_object(self.config.preprocessor_path)
+            model = load_object(Path(self.config.model_path))
+            preprocessor = load_object(Path(self.config.preprocessor_path))
             
             logger.info("Data and model loaded successfully")
             return test_df, model, preprocessor

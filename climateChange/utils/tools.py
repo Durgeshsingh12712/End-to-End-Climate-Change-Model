@@ -84,27 +84,31 @@ def load_json(path: Path) -> ConfigBox:
     logger.info(f"JSON File loaded successfully from: {path}")
     return ConfigBox(contnet)
 
-def load_object(file_path):
-    """Load Pickle File"""
-    try:
-        with open(file_path, 'rb') as file_obj:
-            return joblib.load(file_obj)
-    
-    except Exception as e:
-        logger.error(f"Error loading object from {file_path}")
-        raise CCException(e, sys)
-    
-def save_object(file_path, obj):
-    """Save Object as Pickle File"""
-    try:
-        dir_path = os.path.dirname(file_path)
-        os.makedirs(dir_path, exist_ok= True)
+@ensure_annotations
+def save_object(data, path: Path):
+    """save binary file
 
-        with open(file_path, 'wb') as file_obj:
-            joblib.dump(obj, file_obj)
-    except Exception as e:
-        logger.error(f"Error Saving object to {file_path}: {e}")
-        raise CCException(e, sys)
+    Args:
+        data (Any): data to be saved as binary
+        path (Path): path to binary file
+    """
+    joblib.dump(value=data, filename=path)
+    logger.info(f"Binary file saved at: {path}")
+
+@ensure_annotations
+def load_object(path: Path):
+    """load binary data
+
+    Args:
+        path (Path): path to binary file
+
+    Returns:
+        Any: object stored in the file
+    """
+
+    data = joblib.load(path)
+    logger.info(f"Binary file loaded from : {path}")
+    return data
 
 @ensure_annotations
 def get_size(path: Path) -> str:

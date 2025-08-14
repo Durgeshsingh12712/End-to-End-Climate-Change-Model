@@ -138,7 +138,7 @@ class ModelTrainer:
             )
 
             os.makedirs(os.path.dirname(self.config.trained_model_path), exist_ok= True)
-            save_object(self.config.trained_model_path, best_model)
+            save_object(best_model, Path(self.config.trained_model_path))
 
             # Save Metrics
             all_metrics = {

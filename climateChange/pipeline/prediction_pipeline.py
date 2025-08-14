@@ -1,5 +1,6 @@
 import os, sys
 import pandas as pd
+from pathlib import Path
 
 from climateChange.exceptions import CCException
 from climateChange.loggers import logger
@@ -42,8 +43,8 @@ class PredictionPipeline:
             preprocessor_path = os.path.join("artifacts/data_transformation/preprocessor.pkl")
 
             logger.info("Loading Model and Preprocessor")
-            model = load_object(file_path=model_path)
-            preprocessor = load_object(file_path=preprocessor_path)
+            model = load_object(path=Path(model_path))
+            preprocessor = load_object(path=Path(preprocessor_path))
 
             logger.info("Features Engineering")
             features_engineered = self.engineer_features(features.copy())
@@ -200,8 +201,8 @@ class PredictPipelineAlternative:
             preprocessor_path = os.path.join("artifacts", "data_transformation", "preprocessor.pkl")
             
             logger.info("Loading model and preprocessor")
-            model = load_object(file_path=model_path)
-            preprocessor = load_object(file_path=preprocessor_path)
+            model = load_object(path=Path(model_path))
+            preprocessor = load_object(path=Path(preprocessor_path))
             
             logger.info("Engineering features")
             features_final = self.engineer_features(features)

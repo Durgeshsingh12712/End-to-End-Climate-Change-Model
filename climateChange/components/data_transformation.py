@@ -323,7 +323,7 @@ class DataTransformation:
             train_df.to_csv(self.config.transformed_train_path, index=False)
             test_df.to_csv(self.config.transformed_test_path, index=False)
             
-            save_object(self.config.preprocessor_path, preprocessor)
+            save_object(preprocessor, Path(self.config.preprocessor_path))
             
             logger.info("Data transformation completed successfully")
             
