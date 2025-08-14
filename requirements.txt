@@ -6,7 +6,6 @@ scikit-learn
 matplotlib
 requests
 seaborn
-pickle
 zipfile
 textblob
 scipy
