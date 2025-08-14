@@ -1,0 +1,80 @@
+{
+    "files_exist": true,
+    "schema_validation": true,
+    "climate_validation": true,
+    "social_validation": true,
+    "data_drift": true,
+    "missing_columns": {},
+    "validation_reports": {
+        "climate_quality": {
+            "total_rows": 60,
+            "total_columns": 6,
+            "missing_values": {
+                "date": 0,
+                "temperature_anomaly": 0,
+                "precipitation_anomaly": 0,
+                "co2_concentration": 0,
+                "sea_level_change": 0,
+                "solar_radiation": 0
+            },
+            "duplicate_rows": 0,
+            "data_types": {
+                "date": "object",
+                "temperature_anomaly": "float64",
+                "precipitation_anomaly": "float64",
+                "co2_concentration": "float64",
+                "sea_level_change": "float64",
+                "solar_radiation": "float64"
+            },
+            "missing_percentage": {
+                "date": 0.0,
+                "temperature_anomaly": 0.0,
+                "precipitation_anomaly": 0.0,
+                "co2_concentration": 0.0,
+                "sea_level_change": 0.0,
+                "solar_radiation": 0.0
+            },
+            "outliers": {
+                "temperature_anomaly": 0,
+                "precipitation_anomaly": 1,
+                "co2_concentration": 0,
+                "sea_level_change": 0,
+                "solar_radiation": 1
+            }
+        },
+        "social_quality": {
+            "total_rows": 1200,
+            "total_columns": 6,
+            "missing_values": {
+                "date": 0,
+                "text": 0,
+                "sentiment": 0,
+                "likesCount": 0,
+                "commentsCount": 0,
+                "profileName": 0
+            },
+            "duplicate_rows": 0,
+            "data_types": {
+                "date": "object",
+                "text": "object",
+                "sentiment": "float64",
+                "likesCount": "int64",
+                "commentsCount": "int64",
+                "profileName": "object"
+            },
+            "missing_percentage": {
+                "date": 0.0,
+                "text": 0.0,
+                "sentiment": 0.0,
+                "likesCount": 0.0,
+                "commentsCount": 0.0,
+                "profileName": 0.0
+            },
+            "outliers": {
+                "sentiment": 76,
+                "likesCount": 47,
+                "commentsCount": 59
+            }
+        }
+    }
+}

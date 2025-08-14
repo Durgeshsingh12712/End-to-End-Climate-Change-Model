@@ -1,0 +1,61 @@
+{
+    "best_model": "LinearRegression",
+    "train_metrics": {
+        "mae": 0.07211611453072227,
+        "mse": 0.007235923115918512,
+        "rmse": 0.08506422935593146,
+        "r2_score": 0.964861970970712
+    },
+    "test_metrics": {
+        "mae": 0.14032879985536176,
+        "mse": 0.03242978507496158,
+        "rmse": 0.1800827173133546,
+        "r2_score": 0.6690318178666068
+    },
+    "all_models_report": {
+        "RandomForestRegressor": {
+            "train_r2": 0.8777414867105268,
+            "test_r2": -0.34602147061100386,
+            "train_mae": 0.12832265932832185,
+            "test_mae": 0.31888653195238104,
+            "best_params": {
+                "max_depth": 5,
+                "min_samples_leaf": 4,
+                "min_samples_split": 2,
+                "n_estimators": 50,
+                "random_state": 42
+            }
+        },
+        "LinearRegression": {
+            "train_r2": 0.964861970970712,
+            "test_r2": 0.6690318178666068,
+            "train_mae": 0.07211611453072227,
+            "test_mae": 0.14032879985536176,
+            "best_params": {}
+        },
+        "GradientBoostingRegressor": {
+            "train_r2": 0.9999804848051989,
+            "test_r2": -0.10512399015799723,
+            "train_mae": 0.001604625456054132,
+            "test_mae": 0.28906872474929973,
+            "best_params": {
+                "learning_rate": 0.05,
+                "max_depth": 3,
+                "n_estimators": 200,
+                "random_state": 42
+            }
+        },
+        "XGBRegressor": {
+            "train_r2": 0.33562664406920706,
+            "test_r2": -4.679347950504864,
+            "train_mae": 0.30407124911586625,
+            "test_mae": 0.6793769213195241,
+            "best_params": {
+                "learning_rate": 0.2,
+                "max_depth": 7,
+                "n_estimators": 50,
+                "random_state": 42
+            }
+        }
+    }
+}

@@ -2,7 +2,7 @@ numpy
 pandas
 json
 PyYAML
-box
+python-box
 scikit-learn
 matplotlib
 requests
@@ -15,5 +15,6 @@ scipy
 xgboost
 flask
 ensure
+pytest
 
 -e .

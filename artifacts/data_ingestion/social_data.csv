@@ -1,0 +1,1201 @@
+date,text,sentiment,likesCount,commentsCount,profileName
+2019-01-01 00:00:00.000000000,Sea level rise threatens coastal communities worldwide #sustainability,0.06476885381006925,23,3,user_22
+2019-01-02 12:33:01.651376146,New renewable energy breakthrough could help fight climate change #green,0.06923334666247082,9,1,user_60
+2019-01-04 01:06:03.302752293,International cooperation needed to address climate emergency,-0.06294749609242509,12,1,user_21
+2019-01-05 13:39:04.954128440,Climate activists demand immediate action from world leaders,0.11109225897098661,5,5,user_60
+2019-01-07 02:12:06.605504587,Sea level rise threatens coastal communities worldwide,-0.03681709413435413,10,3,user_54
+2019-01-08 14:45:08.256880733,Innovative technologies emerge to combat climate crisis,0.42955465496234096,4,6,user_62
+2019-01-10 03:18:09.908256880,Carbon emissions continue to rise despite climate agreements #climate,-0.18365832393175527,11,1,user_41
+2019-01-11 15:51:11.559633027,Sustainable practices can help mitigate climate change effects #climate,-0.004353680247349791,6,4,user_5
+2019-01-13 04:24:13.211009174,Innovative technologies emerge to combat climate crisis,0.409327933142007,2,7,user_88
+2019-01-14 16:57:14.862385321,New renewable energy breakthrough could help fight climate change #green,0.013970325881819692,1,0,user_27
+2019-01-16 05:30:16.513761467,Climate activists demand immediate action from world leaders #environment,0.17842081876539384,10,2,user_94
+2019-01-17 18:03:18.165137614,New renewable energy breakthrough could help fight climate change,0.284153040837788,6,2,user_66
+2019-01-19 06:36:19.816513761,Innovative technologies emerge to combat climate crisis #climate,0.4573131205960277,11,1,user_62
+2019-01-20 19:09:21.467889908,Forests are crucial for carbon sequestration and climate stability,-0.032762518327800264,3,4,user_77
+2019-01-22 07:42:23.119266055,Climate activists demand immediate action from world leaders,-0.031132422575110924,8,0,user_44
+2019-01-23 20:15:24.770642201,Carbon emissions continue to rise despite climate agreements #environment,0.030132280094963434,2,2,user_39
+2019-01-25 08:48:26.422018348,Arctic ice melting faster than predicted by climate models #climate,-0.002737644558515863,8,12,user_97
+2019-01-26 21:21:28.073394495,NASA releases new climate data showing alarming temperature trends,0.014710641211293844,2,4,user_17
+2019-01-28 09:54:29.724770642,International cooperation needed to address climate emergency #climate,-0.11497925774943585,18,7,user_97
+2019-01-29 22:27:31.376146789,Climate activists demand immediate action from world leaders,0.2706604953678462,19,0,user_52
+2019-01-31 11:00:33.027522935,Climate activists demand immediate action from world leaders,0.10685629748060274,14,2,user_89
+2019-02-01 23:33:34.678899082,Arctic ice melting faster than predicted by climate models #environment,-0.1027710864088489,12,2,user_1
+2019-02-03 12:06:36.330275229,Climate education is essential for future generations #climate,0.03777695919730916,7,2,user_80
+2019-02-05 00:39:37.981651376,Ocean temperatures reach record highs this month #environment,0.0617640845511145,20,3,user_82
+2019-02-06 13:12:39.633027523,Arctic ice melting faster than predicted by climate models,-0.07143514180263678,2,4,user_21
+2019-02-08 01:45:41.284403669,Climate scientists warn of accelerating global warming,0.08672294989764441,17,4,user_22
+2019-02-09 14:18:42.935779816,Climate education is essential for future generations,0.306109521437826,10,4,user_21
+2019-02-11 02:51:44.587155963,Climate education is essential for future generations,0.08501205821238574,12,2,user_44
+2019-02-12 15:24:46.238532110,Climate change impacts biodiversity and ecosystem health,0.060697570956862505,6,2,user_95
+2019-02-14 03:57:47.889908256,Ocean temperatures reach record highs this month #green,-0.16584091940512835,3,0,user_18
+2019-02-15 16:30:49.541284403,Climate activists demand immediate action from world leaders,-0.014771997282500005,20,0,user_9
+2019-02-17 05:03:51.192660550,Forests are crucial for carbon sequestration and climate stability #sustainability,-0.11830396113350526,13,1,user_13
+2019-02-18 17:36:52.844036697,Climate change impacts biodiversity and ecosystem health,0.14373563283335272,9,5,user_87
+2019-02-20 06:09:54.495412844,International cooperation needed to address climate emergency,0.0651391251305798,10,0,user_63
+2019-02-21 18:42:56.146788990,Climate education is essential for future generations,-0.04145318053898915,8,1,user_97
+2019-02-23 07:15:57.798165137,Carbon emissions continue to rise despite climate agreements #green,-0.0911049403032634,7,3,user_94
+2019-02-24 19:48:59.449541284,International cooperation needed to address climate emergency,-0.010719447516112608,5,0,user_62
+2019-02-26 08:22:01.100917431,Sea level rise threatens coastal communities worldwide,0.08400053766224291,6,2,user_96
+2019-02-27 20:55:02.752293578,Climate education is essential for future generations,0.02710617487422633,33,8,user_26
+2019-03-01 09:28:04.403669724,Ocean temperatures reach record highs this month #climate,-0.04629254220636483,4,1,user_62
+2019-03-02 22:01:06.055045871,Climate scientists warn of accelerating global warming,-0.05492529073643019,16,1,user_34
+2019-03-04 10:34:07.706422018,Climate scientists warn of accelerating global warming,0.013920411095681616,8,12,user_4
+2019-03-05 23:07:09.357798165,Carbon emissions continue to rise despite climate agreements #environment,0.006980208499001892,6,0,user_33
+2019-03-07 11:40:11.009174312,Sustainable practices can help mitigate climate change effects,0.1280540761677464,8,4,user_44
+2019-03-09 00:13:12.660550458,Sustainable practices can help mitigate climate change effects,0.028099186773503267,5,4,user_34
+2019-03-10 12:46:14.311926605,Ocean temperatures reach record highs this month,-0.04645297486449679,10,1,user_36
+2019-03-12 01:19:15.963302752,Climate activists demand immediate action from world leaders #climate,-0.12167610544829094,18,8,user_96
+2019-03-13 13:52:17.614678899,Carbon emissions continue to rise despite climate agreements #green,-0.14720395729735264,5,6,user_30
+2019-03-15 02:25:19.266055046,NASA releases new climate data showing alarming temperature trends,-0.22747749639552128,6,4,user_52
+2019-03-16 14:58:20.917431192,Ocean temperatures reach record highs this month,-0.012452524759368424,17,1,user_58
+2019-03-18 03:31:22.568807339,Sea level rise threatens coastal communities worldwide #environment,0.024931454162195523,16,2,user_76
+2019-03-19 16:04:24.220183486,Climate activists demand immediate action from world leaders #green,-0.0444427843056033,8,1,user_66
+2019-03-21 04:37:25.871559633,New renewable energy breakthrough could help fight climate change,0.0006850879217801253,11,0,user_17
+2019-03-22 17:10:27.522935779,International cooperation needed to address climate emergency #climate,-0.06642274433044228,19,3,user_90
+2019-03-24 05:43:29.174311926,Ocean temperatures reach record highs this month,0.1475356216949552,7,2,user_92
+2019-03-25 18:16:30.825688073,Carbon emissions continue to rise despite climate agreements,0.12711382259809148,16,2,user_56
+2019-03-27 06:49:32.477064220,NASA releases new climate data showing alarming temperature trends,0.05835299039171232,9,5,user_99
+2019-03-28 19:22:34.128440367,Ocean temperatures reach record highs this month #environment,-0.04718775241178693,4,7,user_74
+2019-03-30 07:55:35.779816513,Carbon emissions continue to rise despite climate agreements,-0.07016999770078299,6,1,user_8
+2019-03-31 20:28:37.431192660,Innovative technologies emerge to combat climate crisis,0.42017647819684667,3,2,user_84
+2019-04-02 09:01:39.082568807,Sustainable practices can help mitigate climate change effects,-0.004947955278319797,14,7,user_5
+2019-04-03 21:34:40.733944954,Sea level rise threatens coastal communities worldwide,-0.010798496435305859,20,1,user_49
+2019-04-05 10:07:42.385321100,Sustainable practices can help mitigate climate change effects,0.034245691800751446,28,2,user_74
+2019-04-06 22:40:44.036697247,Innovative technologies emerge to combat climate crisis,0.5807555631605429,6,1,user_4
+2019-04-08 11:13:45.688073394,Climate education is essential for future generations #green,-0.2200780837402289,15,3,user_50
+2019-04-09 23:46:47.339449541,Climate change impacts biodiversity and ecosystem health #green,0.004739892113023808,16,2,user_47
+2019-04-11 12:19:48.990825688,Sea level rise threatens coastal communities worldwide #climate,0.11496230788330825,13,3,user_82
+2019-04-13 00:52:50.642201834,Climate education is essential for future generations,0.004957272929940446,10,1,user_79
+2019-04-14 13:25:52.293577981,Climate change impacts biodiversity and ecosystem health,0.19059072369269944,11,7,user_84
+2019-04-16 01:58:53.944954128,Carbon emissions continue to rise despite climate agreements,-0.014404929827451986,1,6,user_75
+2019-04-17 14:31:55.596330274,Ocean temperatures reach record highs this month,0.23419752025129956,3,1,user_25
+2019-04-19 03:04:57.247706422,Ocean temperatures reach record highs this month #sustainability,0.056103306747106056,3,3,user_5
+2019-04-20 15:37:58.899082568,Arctic ice melting faster than predicted by climate models,-0.010703035995455783,3,2,user_73
+2019-04-22 04:11:00.550458716,Innovative technologies emerge to combat climate crisis #climate,0.27171975099592016,11,12,user_81
+2019-04-23 16:44:02.201834862,Innovative technologies emerge to combat climate crisis #green,0.07635878277423536,13,1,user_87
+2019-04-25 05:17:03.853211008,Climate education is essential for future generations,-0.2301921164735585,11,0,user_18
+2019-04-26 17:50:05.504587156,Innovative technologies emerge to combat climate crisis,0.41287531188850707,9,4,user_86
+2019-04-28 06:23:07.155963302,Innovative technologies emerge to combat climate crisis,0.3708963929101885,6,0,user_18
+2019-04-29 18:56:08.807339448,International cooperation needed to address climate emergency,0.04015605681259987,25,0,user_52
+2019-05-01 07:29:10.458715596,Innovative technologies emerge to combat climate crisis,0.6067456172234752,13,3,user_62
+2019-05-02 20:02:12.110091742,Climate education is essential for future generations #green,-0.2944617084477224,9,4,user_6
+2019-05-04 08:35:13.761467890,Extreme weather events becoming more frequent due to climate change,0.15150911675041676,13,0,user_8
+2019-05-05 21:08:15.412844036,Innovative technologies emerge to combat climate crisis,0.43373762410541533,18,4,user_47
+2019-05-07 09:41:17.064220182,NASA releases new climate data showing alarming temperature trends,-0.25591366626415196,9,0,user_3
+2019-05-08 22:14:18.715596330,NASA releases new climate data showing alarming temperature trends,0.22488621835695616,1,4,user_63
+2019-05-10 10:47:20.366972476,New renewable energy breakthrough could help fight climate change,0.0351018292723332,8,0,user_95
+2019-05-11 23:20:22.018348624,NASA releases new climate data showing alarming temperature trends #green,-0.03757252610641719,8,2,user_64
+2019-05-13 11:53:23.669724770,Sustainable practices can help mitigate climate change effects,-0.015567723539207948,4,3,user_5
+2019-05-15 00:26:25.321100916,Ocean temperatures reach record highs this month,-0.22081065516738774,8,7,user_14
+2019-05-16 12:59:26.972477064,Ocean temperatures reach record highs this month,-0.04080753730215514,0,7,user_66
+2019-05-18 01:32:28.623853210,Climate education is essential for future generations,0.02420151440677966,1,6,user_15
+2019-05-19 14:05:30.275229358,International cooperation needed to address climate emergency,-0.08808636444882607,14,2,user_97
+2019-05-21 02:38:31.926605504,Sustainable practices can help mitigate climate change effects,0.15097713124596235,12,6,user_88
+2019-05-22 15:11:33.577981650,Climate scientists warn of accelerating global warming,-0.05100163988547471,5,3,user_2
+2019-05-24 03:44:35.229357798,Forests are crucial for carbon sequestration and climate stability,0.041343490322370086,28,0,user_38
+2019-05-25 16:17:36.880733944,Extreme weather events becoming more frequent due to climate change,0.10870856250285843,14,2,user_62
+2019-05-27 04:50:38.532110092,Arctic ice melting faster than predicted by climate models,0.01093947946048929,14,2,user_92
+2019-05-28 17:23:40.183486238,International cooperation needed to address climate emergency,0.044211666531347296,24,1,user_23
+2019-05-30 05:56:41.834862384,NASA releases new climate data showing alarming temperature trends,0.023754309410687634,17,1,user_52
+2019-05-31 18:29:43.486238532,Climate activists demand immediate action from world leaders,0.0866599142108456,3,0,user_17
+2019-06-02 07:02:45.137614678,Forests are crucial for carbon sequestration and climate stability,-0.12950787720636162,6,3,user_88
+2019-06-03 19:35:46.788990824,NASA releases new climate data showing alarming temperature trends,0.20307742767635273,21,0,user_49
+2019-06-05 08:08:48.440366972,Climate scientists warn of accelerating global warming,0.05166693086481229,40,2,user_56
+2019-06-06 20:41:50.091743118,Ocean temperatures reach record highs this month,0.2256484015427542,6,3,user_47
+2019-06-08 09:14:51.743119266,Arctic ice melting faster than predicted by climate models,0.11665008299251062,0,0,user_1
+2019-06-09 21:47:53.394495412,Carbon emissions continue to rise despite climate agreements #sustainability,-0.08286580363377946,14,2,user_7
+2019-06-11 10:20:55.045871558,Sustainable practices can help mitigate climate change effects,-0.16225236301977522,8,15,user_67
+2019-06-12 22:53:56.697247706,Ocean temperatures reach record highs this month,0.014900536690032426,6,1,user_46
+2019-06-14 11:26:58.348623852,Forests are crucial for carbon sequestration and climate stability #green,-0.20810633275998974,10,0,user_47
+2019-06-16 00:00:00.000000000,New renewable energy breakthrough could help fight climate change,0.31283232978990827,5,0,user_5
+2019-06-17 12:33:01.651376146,New renewable energy breakthrough could help fight climate change,-0.07182930442473587,23,5,user_81
+2019-06-19 01:06:03.302752292,Arctic ice melting faster than predicted by climate models,-0.003095825063657335,10,0,user_22
+2019-06-20 13:39:04.954128440,Forests are crucial for carbon sequestration and climate stability,0.11030252667777828,20,7,user_34
+2019-06-22 02:12:06.605504586,NASA releases new climate data showing alarming temperature trends,0.030861134149865153,27,2,user_27
+2019-06-23 14:45:08.256880734,Climate activists demand immediate action from world leaders,0.009342132698095931,15,1,user_62
+2019-06-25 03:18:09.908256880,Innovative technologies emerge to combat climate crisis,0.5371593830486526,11,4,user_11
+2019-06-26 15:51:11.559633026,Carbon emissions continue to rise despite climate agreements,-0.022254147217114006,9,3,user_55
+2019-06-28 04:24:13.211009174,International cooperation needed to address climate emergency #environment,-0.08583577801812137,12,4,user_62
+2019-06-29 16:57:14.862385320,Forests are crucial for carbon sequestration and climate stability,-0.1519179982986177,15,1,user_17
+2019-07-01 05:30:16.513761466,NASA releases new climate data showing alarming temperature trends,-0.04451488759695857,25,3,user_94
+2019-07-02 18:03:18.165137614,Extreme weather events becoming more frequent due to climate change,0.21325951093705509,5,2,user_74
+2019-07-04 06:36:19.816513760,Climate activists demand immediate action from world leaders,0.11777010009332539,2,5,user_80
+2019-07-05 19:09:21.467889908,Extreme weather events becoming more frequent due to climate change #environment,0.2218661959709932,9,5,user_7
+2019-07-07 07:42:23.119266054,Climate activists demand immediate action from world leaders,0.11338476542459999,7,0,user_39
+2019-07-08 20:15:24.770642200,Ocean temperatures reach record highs this month,-0.140515992236446,10,3,user_55
+2019-07-10 08:48:26.422018348,Sea level rise threatens coastal communities worldwide,-0.04787486216634773,10,0,user_82
+2019-07-11 21:21:28.073394494,NASA releases new climate data showing alarming temperature trends #environment,-0.0036285716555761113,16,1,user_39
+2019-07-13 09:54:29.724770642,Climate education is essential for future generations,-0.1186335095221372,4,7,user_56
+2019-07-14 22:27:31.376146788,Climate change impacts biodiversity and ecosystem health #environment,-0.02663173285227033,4,1,user_37
+2019-07-16 11:00:33.027522934,Climate activists demand immediate action from world leaders,0.07549303816836636,4,4,user_63
+2019-07-17 23:33:34.678899082,Climate education is essential for future generations,-0.15325273419173213,6,2,user_54
+2019-07-19 12:06:36.330275228,New renewable energy breakthrough could help fight climate change #environment,0.07258963793850476,5,4,user_5
+2019-07-21 00:39:37.981651376,Extreme weather events becoming more frequent due to climate change #climate,0.09771295035767161,40,3,user_35
+2019-07-22 13:12:39.633027522,Arctic ice melting faster than predicted by climate models,0.22356746869844743,5,2,user_92
+2019-07-24 01:45:41.284403668,Sustainable practices can help mitigate climate change effects #climate,0.11256787843696298,13,2,user_79
+2019-07-25 14:18:42.935779816,Extreme weather events becoming more frequent due to climate change,0.15668730271262027,30,4,user_81
+2019-07-27 02:51:44.587155962,Arctic ice melting faster than predicted by climate models,-0.10608267958340963,33,1,user_98
+2019-07-28 15:24:46.238532108,Carbon emissions continue to rise despite climate agreements,0.0583928185325964,6,5,user_41
+2019-07-30 03:57:47.889908256,Sustainable practices can help mitigate climate change effects #climate,0.04216849239122599,3,4,user_31
+2019-07-31 16:30:49.541284404,Sea level rise threatens coastal communities worldwide,-0.054189912438854786,12,1,user_13
+2019-08-02 05:03:51.192660548,Climate education is essential for future generations,0.08622630247968789,3,2,user_35
+2019-08-03 17:36:52.844036696,Extreme weather events becoming more frequent due to climate change,0.15535796292586,7,0,user_22
+2019-08-05 06:09:54.495412844,Climate scientists warn of accelerating global warming,-0.03988924922535511,11,1,user_22
+2019-08-06 18:42:56.146788988,Innovative technologies emerge to combat climate crisis,0.4413451911478657,40,0,user_33
+2019-08-08 07:15:57.798165136,Extreme weather events becoming more frequent due to climate change,0.2982904434464798,6,5,user_98
+2019-08-09 19:48:59.449541284,Sustainable practices can help mitigate climate change effects #sustainability,-0.12298693782408146,6,0,user_78
+2019-08-11 08:22:01.100917432,Climate scientists warn of accelerating global warming,0.07083564472993534,7,0,user_59
+2019-08-12 20:55:02.752293576,Climate scientists warn of accelerating global warming,0.08978885387603419,7,0,user_80
+2019-08-14 09:28:04.403669724,Forests are crucial for carbon sequestration and climate stability #environment,0.14437646040732596,8,0,user_93
+2019-08-15 22:01:06.055045872,Climate change impacts biodiversity and ecosystem health,0.019652116970147016,14,0,user_84
+2019-08-17 10:34:07.706422016,Climate scientists warn of accelerating global warming,-0.00497665096490848,5,1,user_2
+2019-08-18 23:07:09.357798164,Carbon emissions continue to rise despite climate agreements,0.19628226340454585,7,7,user_41
+2019-08-20 11:40:11.009174312,Carbon emissions continue to rise despite climate agreements #sustainability,0.07420845885237987,7,1,user_80
+2019-08-22 00:13:12.660550456,Extreme weather events becoming more frequent due to climate change,0.21248887786639503,31,3,user_77
+2019-08-23 12:46:14.311926604,Climate education is essential for future generations,-0.20417348684242909,5,1,user_46
+2019-08-25 01:19:15.963302752,Innovative technologies emerge to combat climate crisis #environment,0.5101764072987626,10,12,user_41
+2019-08-26 13:52:17.614678896,Arctic ice melting faster than predicted by climate models #green,-0.06168549991277256,14,4,user_7
+2019-08-28 02:25:19.266055044,Forests are crucial for carbon sequestration and climate stability #green,0.03514784294735071,12,8,user_12
+2019-08-29 14:58:20.917431192,Sustainable practices can help mitigate climate change effects,-0.04602954441938468,1,5,user_93
+2019-08-31 03:31:22.568807340,Sea level rise threatens coastal communities worldwide,0.05059911099595346,0,2,user_54
+2019-09-01 16:04:24.220183484,International cooperation needed to address climate emergency,-0.075961884104831,5,3,user_24
+2019-09-03 04:37:25.871559632,Climate scientists warn of accelerating global warming,0.08737830409601159,15,5,user_98
+2019-09-04 17:10:27.522935780,Climate scientists warn of accelerating global warming #environment,0.29462128266632254,16,7,user_12
+2019-09-06 05:43:29.174311924,Ocean temperatures reach record highs this month,0.13768034928789294,16,4,user_44
+2019-09-07 18:16:30.825688072,Climate education is essential for future generations #sustainability,0.026067376582390712,4,2,user_14
+2019-09-09 06:49:32.477064220,Carbon emissions continue to rise despite climate agreements,-0.06857375867883446,9,0,user_5
+2019-09-10 19:22:34.128440364,International cooperation needed to address climate emergency,-0.162621771458874,1,8,user_10
+2019-09-12 07:55:35.779816512,Ocean temperatures reach record highs this month,-0.05913032150920309,0,2,user_76
+2019-09-13 20:28:37.431192660,NASA releases new climate data showing alarming temperature trends,-0.0963359242217199,2,0,user_76
+2019-09-15 09:01:39.082568808,New renewable energy breakthrough could help fight climate change #green,0.004447380406935063,19,1,user_2
+2019-09-16 21:34:40.733944952,Climate activists demand immediate action from world leaders,0.08036501509150218,8,0,user_51
+2019-09-18 10:07:42.385321100,Climate education is essential for future generations,-0.048094612725809116,8,3,user_23
+2019-09-19 22:40:44.036697248,Climate change impacts biodiversity and ecosystem health,-0.07326841912576192,11,1,user_86
+2019-09-21 11:13:45.688073392,International cooperation needed to address climate emergency,0.048389231724189005,8,10,user_76
+2019-09-22 23:46:47.339449540,Forests are crucial for carbon sequestration and climate stability #environment,0.01806454642754404,14,3,user_62
+2019-09-24 12:19:48.990825688,Climate change impacts biodiversity and ecosystem health,0.09903534110375072,1,5,user_13
+2019-09-26 00:52:50.642201832,Climate activists demand immediate action from world leaders,0.039566143055336025,6,5,user_23
+2019-09-27 13:25:52.293577980,Ocean temperatures reach record highs this month #climate,-0.013886258719467168,9,0,user_76
+2019-09-29 01:58:53.944954128,Innovative technologies emerge to combat climate crisis,0.4114836501000152,32,1,user_90
+2019-09-30 14:31:55.596330272,Forests are crucial for carbon sequestration and climate stability,-0.13230897934074984,15,8,user_26
+2019-10-02 03:04:57.247706420,Carbon emissions continue to rise despite climate agreements,-0.04542442751532624,7,0,user_44
+2019-10-03 15:37:58.899082568,Climate scientists warn of accelerating global warming,-0.1645398746956892,11,4,user_21
+2019-10-05 04:11:00.550458716,Sea level rise threatens coastal communities worldwide,0.01293069751663404,11,2,user_78
+2019-10-06 16:44:02.201834860,Sustainable practices can help mitigate climate change effects,-0.14095113174731944,25,3,user_8
+2019-10-08 05:17:03.853211008,Innovative technologies emerge to combat climate crisis,0.40103718634296626,22,2,user_74
+2019-10-09 17:50:05.504587156,Sea level rise threatens coastal communities worldwide,-0.015922387809671017,4,3,user_36
+2019-10-11 06:23:07.155963300,Climate scientists warn of accelerating global warming,0.022391413406466144,21,3,user_21
+2019-10-12 18:56:08.807339448,Extreme weather events becoming more frequent due to climate change,0.1739215408644903,14,6,user_42
+2019-10-14 07:29:10.458715596,Carbon emissions continue to rise despite climate agreements #climate,0.07471652242595814,4,1,user_18
+2019-10-15 20:02:12.110091740,Ocean temperatures reach record highs this month,0.12477420726737339,36,0,user_98
+2019-10-17 08:35:13.761467888,NASA releases new climate data showing alarming temperature trends,0.14064026194443247,27,1,user_25
+2019-10-18 21:08:15.412844036,Arctic ice melting faster than predicted by climate models,-0.13698029795790778,21,5,user_41
+2019-10-20 09:41:17.064220184,NASA releases new climate data showing alarming temperature trends,0.12244270174546687,6,4,user_36
+2019-10-21 22:14:18.715596328,Carbon emissions continue to rise despite climate agreements,-0.02734642464548241,1,7,user_68
+2019-10-23 10:47:20.366972476,Sustainable practices can help mitigate climate change effects,0.023378591179074773,1,3,user_3
+2019-10-24 23:20:22.018348624,Extreme weather events becoming more frequent due to climate change,0.371785594962589,33,4,user_44
+2019-10-26 11:53:23.669724768,Innovative technologies emerge to combat climate crisis #climate,0.63112102303924,22,0,user_12
+2019-10-28 00:26:25.321100916,NASA releases new climate data showing alarming temperature trends,-0.16400865508341722,6,3,user_5
+2019-10-29 12:59:26.972477064,Climate scientists warn of accelerating global warming #green,-0.02268927933047625,2,4,user_16
+2019-10-31 01:32:28.623853208,Climate change impacts biodiversity and ecosystem health #environment,-0.06863190756491158,4,0,user_73
+2019-11-01 14:05:30.275229356,NASA releases new climate data showing alarming temperature trends,-0.09215484243556919,0,5,user_86
+2019-11-03 02:38:31.926605504,Climate change impacts biodiversity and ecosystem health #environment,0.003126687724867452,0,2,user_30
+2019-11-04 15:11:33.577981648,Carbon emissions continue to rise despite climate agreements,-0.07030628980011439,10,1,user_91
+2019-11-06 03:44:35.229357796,Arctic ice melting faster than predicted by climate models,0.09810686536747028,9,4,user_54
+2019-11-07 16:17:36.880733944,NASA releases new climate data showing alarming temperature trends #environment,-0.03344378341189453,15,3,user_21
+2019-11-09 04:50:38.532110092,Arctic ice melting faster than predicted by climate models,0.09978127182640277,8,2,user_92
+2019-11-10 17:23:40.183486236,Sustainable practices can help mitigate climate change effects #green,-0.29393353938187544,5,4,user_83
+2019-11-12 05:56:41.834862384,International cooperation needed to address climate emergency,-0.12824986211215225,6,3,user_83
+2019-11-13 18:29:43.486238532,Climate activists demand immediate action from world leaders,0.06629140288819607,6,1,user_97
+2019-11-15 07:02:45.137614676,Climate scientists warn of accelerating global warming,-0.07330060632766411,4,3,user_50
+2019-11-16 19:35:46.788990824,International cooperation needed to address climate emergency #sustainability,-0.10279027657136951,2,2,user_14
+2019-11-18 08:08:48.440366972,Sea level rise threatens coastal communities worldwide #environment,-0.02326719085199986,3,8,user_5
+2019-11-19 20:41:50.091743116,NASA releases new climate data showing alarming temperature trends,0.09758352553593153,12,6,user_32
+2019-11-21 09:14:51.743119264,Climate scientists warn of accelerating global warming,0.0816117436057333,2,1,user_34
+2019-11-22 21:47:53.394495412,Climate scientists warn of accelerating global warming,-0.045821651930057536,16,3,user_42
+2019-11-24 10:20:55.045871556,New renewable energy breakthrough could help fight climate change #climate,0.2505962818174715,3,5,user_60
+2019-11-25 22:53:56.697247704,Carbon emissions continue to rise despite climate agreements,-0.04879114081457027,20,6,user_79
+2019-11-27 11:26:58.348623852,NASA releases new climate data showing alarming temperature trends,-0.10094719574696244,7,10,user_87
+2019-11-29 00:00:00.000000000,Forests are crucial for carbon sequestration and climate stability,0.013653533108273745,7,2,user_58
+2019-11-30 12:33:01.651376144,International cooperation needed to address climate emergency,0.12004139079444254,5,1,user_94
+2019-12-02 01:06:03.302752292,Extreme weather events becoming more frequent due to climate change #green,0.056394651235012014,4,2,user_8
+2019-12-03 13:39:04.954128440,Carbon emissions continue to rise despite climate agreements,-0.12525890123654956,4,7,user_62
+2019-12-05 02:12:06.605504584,International cooperation needed to address climate emergency #climate,0.055623000940065996,8,0,user_32
+2019-12-06 14:45:08.256880732,International cooperation needed to address climate emergency,-0.10736290060021147,9,3,user_59
+2019-12-08 03:18:09.908256880,Climate education is essential for future generations,-0.09083021309658057,11,2,user_32
+2019-12-09 15:51:11.559633024,Ocean temperatures reach record highs this month #green,-0.1253812592685597,5,11,user_8
+2019-12-11 04:24:13.211009172,Climate education is essential for future generations #sustainability,0.0688678023685426,19,1,user_13
+2019-12-12 16:57:14.862385320,Arctic ice melting faster than predicted by climate models,-0.06021053527812588,9,0,user_22
+2019-12-14 05:30:16.513761468,Forests are crucial for carbon sequestration and climate stability #climate,-0.003973890480617454,1,2,user_39
+2019-12-15 18:03:18.165137612,Climate change impacts biodiversity and ecosystem health,-0.062237819499080305,11,2,user_89
+2019-12-17 06:36:19.816513760,Innovative technologies emerge to combat climate crisis #environment,0.41494795457906997,3,4,user_36
+2019-12-18 19:09:21.467889908,Extreme weather events becoming more frequent due to climate change #environment,0.015014343451909384,3,4,user_4
+2019-12-20 07:42:23.119266052,International cooperation needed to address climate emergency,-0.0372833152091767,12,3,user_85
+2019-12-21 20:15:24.770642200,Extreme weather events becoming more frequent due to climate change,0.2766548590977006,6,1,user_88
+2019-12-23 08:48:26.422018348,New renewable energy breakthrough could help fight climate change,0.3921835649304616,37,12,user_82
+2019-12-24 21:21:28.073394492,Ocean temperatures reach record highs this month,-0.0007042798924735517,19,1,user_31
+2019-12-26 09:54:29.724770640,Climate scientists warn of accelerating global warming,-0.04532280493272752,2,2,user_18
+2019-12-27 22:27:31.376146788,International cooperation needed to address climate emergency,0.15134497432421312,15,3,user_4
+2019-12-29 11:00:33.027522932,Climate scientists warn of accelerating global warming #sustainability,0.057675806619307206,15,5,user_61
+2019-12-30 23:33:34.678899080,Innovative technologies emerge to combat climate crisis,0.4472223135754061,20,4,user_46
+2020-01-01 12:06:36.330275228,Innovative technologies emerge to combat climate crisis #climate,0.48523974137013315,3,7,user_39
+2020-01-03 00:39:37.981651376,Arctic ice melting faster than predicted by climate models #green,-0.057196851476521204,14,4,user_60
+2020-01-04 13:12:39.633027520,Climate activists demand immediate action from world leaders #green,-0.08190076667528239,7,0,user_10
+2020-01-06 01:45:41.284403668,Extreme weather events becoming more frequent due to climate change,0.06463953869803017,5,4,user_84
+2020-01-07 14:18:42.935779816,Arctic ice melting faster than predicted by climate models #climate,-0.13137578136860328,2,2,user_75
+2020-01-09 02:51:44.587155960,Climate scientists warn of accelerating global warming,-0.023699917106016016,6,5,user_14
+2020-01-10 15:24:46.238532108,Climate activists demand immediate action from world leaders,0.01622520184062401,13,3,user_61
+2020-01-12 03:57:47.889908256,Climate activists demand immediate action from world leaders,0.08685970939777618,5,8,user_33
+2020-01-13 16:30:49.541284400,NASA releases new climate data showing alarming temperature trends #climate,0.061063468214875474,14,3,user_70
+2020-01-15 05:03:51.192660548,Arctic ice melting faster than predicted by climate models,0.18115048125935168,13,5,user_39
+2020-01-16 17:36:52.844036696,Extreme weather events becoming more frequent due to climate change,0.12977503240784796,11,2,user_68
+2020-01-18 06:09:54.495412844,Climate education is essential for future generations #sustainability,0.03230792731160291,7,1,user_58
+2020-01-19 18:42:56.146788988,Climate change impacts biodiversity and ecosystem health #sustainability,0.05114155009299537,4,2,user_42
+2020-01-21 07:15:57.798165136,Climate scientists warn of accelerating global warming #sustainability,0.10383887557346116,13,2,user_92
+2020-01-22 19:48:59.449541284,Climate activists demand immediate action from world leaders,-0.04382779783173668,17,3,user_82
+2020-01-24 08:22:01.100917428,Innovative technologies emerge to combat climate crisis,0.37711995814478627,13,6,user_33
+2020-01-25 20:55:02.752293576,Climate change impacts biodiversity and ecosystem health,-0.02719120010734363,3,3,user_19
+2020-01-27 09:28:04.403669724,Climate activists demand immediate action from world leaders #environment,-0.005771564807005428,8,3,user_68
+2020-01-28 22:01:06.055045868,Climate activists demand immediate action from world leaders #environment,0.022763021568569977,9,1,user_50
+2020-01-30 10:34:07.706422016,Extreme weather events becoming more frequent due to climate change #green,-0.03279365137684523,16,2,user_21
+2020-01-31 23:07:09.357798164,Climate change impacts biodiversity and ecosystem health #environment,0.011278786262909332,5,8,user_82
+2020-02-02 11:40:11.009174308,Innovative technologies emerge to combat climate crisis,0.6943876893108604,2,5,user_33
+2020-02-04 00:13:12.660550456,Climate scientists warn of accelerating global warming #environment,0.03824414178192985,19,0,user_73
+2020-02-05 12:46:14.311926604,Climate scientists warn of accelerating global warming,-0.05091952404854638,13,2,user_63
+2020-02-07 01:19:15.963302752,New renewable energy breakthrough could help fight climate change,0.33025653626946483,22,0,user_39
+2020-02-08 13:52:17.614678896,Climate activists demand immediate action from world leaders #climate,0.12822076428899348,15,0,user_72
+2020-02-10 02:25:19.266055044,Climate education is essential for future generations,-0.1428030833100765,4,2,user_87
+2020-02-11 14:58:20.917431192,Extreme weather events becoming more frequent due to climate change #sustainability,0.24434143093959995,14,6,user_19
+2020-02-13 03:31:22.568807336,International cooperation needed to address climate emergency,0.205685222073102,7,2,user_9
+2020-02-14 16:04:24.220183484,NASA releases new climate data showing alarming temperature trends,0.09817600837602318,1,5,user_68
+2020-02-16 04:37:25.871559632,Climate change impacts biodiversity and ecosystem health #climate,-0.0863951221420806,2,6,user_12
+2020-02-17 17:10:27.522935776,Ocean temperatures reach record highs this month,0.011471061816396837,10,6,user_67
+2020-02-19 05:43:29.174311924,Climate change impacts biodiversity and ecosystem health,0.09751976297824298,13,4,user_76
+2020-02-20 18:16:30.825688072,Extreme weather events becoming more frequent due to climate change,0.428753436569696,17,9,user_21
+2020-02-22 06:49:32.477064216,Ocean temperatures reach record highs this month,0.057990896747192044,19,1,user_67
+2020-02-23 19:22:34.128440368,Extreme weather events becoming more frequent due to climate change,0.10974005393937672,7,0,user_38
+2020-02-25 07:55:35.779816512,Extreme weather events becoming more frequent due to climate change #environment,0.11604112889682261,0,1,user_93
+2020-02-26 20:28:37.431192656,Sustainable practices can help mitigate climate change effects,-0.0692420979873856,10,0,user_13
+2020-02-28 09:01:39.082568808,Sustainable practices can help mitigate climate change effects,0.10844795830730708,5,2,user_37
+2020-02-29 21:34:40.733944952,NASA releases new climate data showing alarming temperature trends,-0.013723575384843645,4,2,user_19
+2020-03-02 10:07:42.385321096,Forests are crucial for carbon sequestration and climate stability,0.10761463126400131,5,0,user_72
+2020-03-03 22:40:44.036697248,Sustainable practices can help mitigate climate change effects #green,-0.3198184032602336,11,6,user_84
+2020-03-05 11:13:45.688073392,Arctic ice melting faster than predicted by climate models,0.0535173471049099,18,4,user_28
+2020-03-06 23:46:47.339449536,Carbon emissions continue to rise despite climate agreements #climate,-0.1674444263827696,3,10,user_51
+2020-03-08 12:19:48.990825688,Forests are crucial for carbon sequestration and climate stability,-0.10651846840834459,2,2,user_3
+2020-03-10 00:52:50.642201832,Climate scientists warn of accelerating global warming,0.02099120896418698,25,3,user_55
+2020-03-11 13:25:52.293577976,Sustainable practices can help mitigate climate change effects,0.19009356129945743,8,0,user_21
+2020-03-13 01:58:53.944954128,Extreme weather events becoming more frequent due to climate change #green,-0.01936368317564803,15,1,user_67
+2020-03-14 14:31:55.596330272,Ocean temperatures reach record highs this month #sustainability,0.14334224198251683,7,3,user_57
+2020-03-16 03:04:57.247706416,Extreme weather events becoming more frequent due to climate change #climate,0.29970795007333156,62,2,user_47
+2020-03-17 15:37:58.899082568,Climate scientists warn of accelerating global warming,0.012941125827559767,0,3,user_91
+2020-03-19 04:11:00.550458712,Climate education is essential for future generations,0.12221233023730538,10,0,user_50
+2020-03-20 16:44:02.201834864,New renewable energy breakthrough could help fight climate change,0.15054974188438627,9,3,user_46
+2020-03-22 05:17:03.853211008,Extreme weather events becoming more frequent due to climate change #sustainability,0.13412039373328974,26,2,user_68
+2020-03-23 17:50:05.504587152,Arctic ice melting faster than predicted by climate models #climate,0.022898242506107808,9,1,user_96
+2020-03-25 06:23:07.155963304,Extreme weather events becoming more frequent due to climate change,0.1783300212104993,3,4,user_42
+2020-03-26 18:56:08.807339448,Arctic ice melting faster than predicted by climate models,0.0500844474944457,2,0,user_1
+2020-03-28 07:29:10.458715592,Climate change impacts biodiversity and ecosystem health,-0.052190181418315496,11,0,user_24
+2020-03-29 20:02:12.110091744,Innovative technologies emerge to combat climate crisis,0.6060642930486165,7,5,user_19
+2020-03-31 08:35:13.761467888,International cooperation needed to address climate emergency #climate,-0.16885623167896846,15,1,user_41
+2020-04-01 21:08:15.412844032,Climate education is essential for future generations,0.007567229404723533,3,2,user_55
+2020-04-03 09:41:17.064220184,Innovative technologies emerge to combat climate crisis,0.7673510970396479,28,7,user_81
+2020-04-04 22:14:18.715596328,Ocean temperatures reach record highs this month #sustainability,0.018741988052343648,19,1,user_35
+2020-04-06 10:47:20.366972472,International cooperation needed to address climate emergency,-0.019490828035268103,17,2,user_61
+2020-04-07 23:20:22.018348624,International cooperation needed to address climate emergency #environment,0.10035665601832854,31,2,user_42
+2020-04-09 11:53:23.669724768,Climate education is essential for future generations,-0.05282789734019799,15,2,user_26
+2020-04-11 00:26:25.321100912,NASA releases new climate data showing alarming temperature trends,0.1391084292786921,2,3,user_35
+2020-04-12 12:59:26.972477064,Arctic ice melting faster than predicted by climate models,0.04859622829272711,23,1,user_95
+2020-04-14 01:32:28.623853208,Extreme weather events becoming more frequent due to climate change,0.3709444594642459,19,1,user_16
+2020-04-15 14:05:30.275229352,Extreme weather events becoming more frequent due to climate change,0.1936160046276041,8,1,user_39
+2020-04-17 02:38:31.926605504,Ocean temperatures reach record highs this month #environment,-0.046927340475478044,4,6,user_30
+2020-04-18 15:11:33.577981648,New renewable energy breakthrough could help fight climate change,0.16434790246339723,6,0,user_55
+2020-04-20 03:44:35.229357792,Sea level rise threatens coastal communities worldwide #environment,0.18005111815108538,22,0,user_53
+2020-04-21 16:17:36.880733944,Carbon emissions continue to rise despite climate agreements,0.07821826079557602,3,2,user_12
+2020-04-23 04:50:38.532110088,Sea level rise threatens coastal communities worldwide,-0.09642946397563683,14,4,user_81
+2020-04-24 17:23:40.183486240,Sea level rise threatens coastal communities worldwide,0.09302561562419505,6,3,user_68
+2020-04-26 05:56:41.834862384,Climate scientists warn of accelerating global warming #sustainability,-0.1052965078400307,13,2,user_37
+2020-04-27 18:29:43.486238528,NASA releases new climate data showing alarming temperature trends,-0.22569989764582477,5,4,user_33
+2020-04-29 07:02:45.137614680,Carbon emissions continue to rise despite climate agreements #climate,-0.08164039861010419,10,2,user_83
+2020-04-30 19:35:46.788990824,Climate change impacts biodiversity and ecosystem health #climate,0.04079250175142854,7,0,user_78
+2020-05-02 08:08:48.440366968,Ocean temperatures reach record highs this month,-0.22961809531372382,14,2,user_73
+2020-05-03 20:41:50.091743120,Extreme weather events becoming more frequent due to climate change,0.13269802392739805,12,0,user_7
+2020-05-05 09:14:51.743119264,Climate scientists warn of accelerating global warming #green,-0.01821103419749713,6,9,user_99
+2020-05-06 21:47:53.394495408,Sustainable practices can help mitigate climate change effects,0.004091917539572113,3,0,user_14
+2020-05-08 10:20:55.045871560,Innovative technologies emerge to combat climate crisis,0.38661844049131167,5,8,user_29
+2020-05-09 22:53:56.697247704,Forests are crucial for carbon sequestration and climate stability #environment,0.20179079638332387,11,5,user_58
+2020-05-11 11:26:58.348623848,Climate change impacts biodiversity and ecosystem health,0.07181857257079345,7,2,user_25
+2020-05-13 00:00:00.000000000,NASA releases new climate data showing alarming temperature trends #sustainability,-0.10572888938357192,1,5,user_51
+2020-05-14 12:33:01.651376144,Climate activists demand immediate action from world leaders,-0.03514457648919714,10,6,user_59
+2020-05-16 01:06:03.302752288,Climate scientists warn of accelerating global warming #climate,-0.07431342647679838,3,2,user_90
+2020-05-17 13:39:04.954128440,Carbon emissions continue to rise despite climate agreements #climate,0.16614701657280184,36,3,user_22
+2020-05-19 02:12:06.605504584,Climate activists demand immediate action from world leaders,0.17683429494861463,25,1,user_77
+2020-05-20 14:45:08.256880728,New renewable energy breakthrough could help fight climate change,0.2228381055277204,21,4,user_54
+2020-05-22 03:18:09.908256880,Climate change impacts biodiversity and ecosystem health,0.016565894356853243,6,2,user_54
+2020-05-23 15:51:11.559633024,NASA releases new climate data showing alarming temperature trends #sustainability,0.09548315440719932,5,6,user_6
+2020-05-25 04:24:13.211009168,Extreme weather events becoming more frequent due to climate change #environment,0.3787649874550019,1,0,user_33
+2020-05-26 16:57:14.862385320,NASA releases new climate data showing alarming temperature trends #climate,-0.008483414741623306,0,3,user_68
+2020-05-28 05:30:16.513761464,Ocean temperatures reach record highs this month,0.05466953237658755,8,1,user_87
+2020-05-29 18:03:18.165137616,Sea level rise threatens coastal communities worldwide,-0.1489000355123972,10,5,user_43
+2020-05-31 06:36:19.816513760,New renewable energy breakthrough could help fight climate change #environment,0.07221494545920538,12,0,user_39
+2020-06-01 19:09:21.467889904,NASA releases new climate data showing alarming temperature trends,0.10126705060975486,24,3,user_74
+2020-06-03 07:42:23.119266056,Climate scientists warn of accelerating global warming,-0.12504077339697175,11,3,user_27
+2020-06-04 20:15:24.770642200,Climate activists demand immediate action from world leaders,0.17141034997200927,67,0,user_20
+2020-06-06 08:48:26.422018344,New renewable energy breakthrough could help fight climate change,0.12790733644925553,5,6,user_65
+2020-06-07 21:21:28.073394496,Arctic ice melting faster than predicted by climate models #environment,-0.19161671796658789,1,2,user_17
+2020-06-09 09:54:29.724770640,Extreme weather events becoming more frequent due to climate change #climate,0.12354508534649761,2,0,user_19
+2020-06-10 22:27:31.376146784,Sustainable practices can help mitigate climate change effects,0.1688793913309905,8,5,user_15
+2020-06-12 11:00:33.027522936,Arctic ice melting faster than predicted by climate models,-0.1252393444413119,9,1,user_68
+2020-06-13 23:33:34.678899080,Innovative technologies emerge to combat climate crisis #climate,0.5443880230217436,5,3,user_36
+2020-06-15 12:06:36.330275224,Arctic ice melting faster than predicted by climate models #green,-0.29521788067393495,8,0,user_69
+2020-06-17 00:39:37.981651376,International cooperation needed to address climate emergency,0.03196518259189773,14,1,user_3
+2020-06-18 13:12:39.633027520,Ocean temperatures reach record highs this month,-0.10231955113182944,4,0,user_41
+2020-06-20 01:45:41.284403664,New renewable energy breakthrough could help fight climate change #environment,0.03013392084699895,2,1,user_47
+2020-06-21 14:18:42.935779816,Extreme weather events becoming more frequent due to climate change,0.20620608932518963,16,1,user_16
+2020-06-23 02:51:44.587155960,Forests are crucial for carbon sequestration and climate stability,0.013325723386127773,1,1,user_48
+2020-06-24 15:24:46.238532104,Climate scientists warn of accelerating global warming,0.23003956426851713,11,0,user_51
+2020-06-26 03:57:47.889908256,Climate scientists warn of accelerating global warming #sustainability,0.05345056484805503,16,4,user_39
+2020-06-27 16:30:49.541284400,Sustainable practices can help mitigate climate change effects #climate,-0.007421097854939083,6,1,user_81
+2020-06-29 05:03:51.192660544,International cooperation needed to address climate emergency #green,-0.03663884594241687,8,0,user_68
+2020-06-30 17:36:52.844036696,Arctic ice melting faster than predicted by climate models,-0.038709970247440106,5,3,user_34
+2020-07-02 06:09:54.495412840,Sustainable practices can help mitigate climate change effects,0.005392042530577994,45,11,user_69
+2020-07-03 18:42:56.146788992,Forests are crucial for carbon sequestration and climate stability,0.1927569385178195,13,2,user_44
+2020-07-05 07:15:57.798165136,Sea level rise threatens coastal communities worldwide,0.0006479484220716647,20,3,user_83
+2020-07-06 19:48:59.449541280,Ocean temperatures reach record highs this month,-0.018319134571712224,6,2,user_75
+2020-07-08 08:22:01.100917432,New renewable energy breakthrough could help fight climate change,-0.015872282258152765,17,1,user_62
+2020-07-09 20:55:02.752293576,Arctic ice melting faster than predicted by climate models,-0.015155545500997972,2,6,user_68
+2020-07-11 09:28:04.403669720,NASA releases new climate data showing alarming temperature trends,0.12992169977206425,24,8,user_29
+2020-07-12 22:01:06.055045872,Carbon emissions continue to rise despite climate agreements,-0.04947809457668834,10,2,user_17
+2020-07-14 10:34:07.706422016,Arctic ice melting faster than predicted by climate models #climate,0.00438749637607155,11,0,user_71
+2020-07-15 23:07:09.357798160,Forests are crucial for carbon sequestration and climate stability,0.03744806464084455,25,2,user_38
+2020-07-17 11:40:11.009174312,Extreme weather events becoming more frequent due to climate change,0.041408899076715355,11,2,user_19
+2020-07-19 00:13:12.660550456,Climate scientists warn of accelerating global warming,-0.07230877296358625,27,4,user_27
+2020-07-20 12:46:14.311926600,Innovative technologies emerge to combat climate crisis,0.585645068001516,40,17,user_51
+2020-07-22 01:19:15.963302752,New renewable energy breakthrough could help fight climate change,0.038607423816367656,25,4,user_45
+2020-07-23 13:52:17.614678896,Climate scientists warn of accelerating global warming #climate,0.05720574417141441,8,1,user_48
+2020-07-25 02:25:19.266055040,Extreme weather events becoming more frequent due to climate change,0.20204524772475582,9,2,user_25
+2020-07-26 14:58:20.917431192,Climate change impacts biodiversity and ecosystem health #green,-0.03225370696873939,5,8,user_42
+2020-07-28 03:31:22.568807336,Arctic ice melting faster than predicted by climate models #green,-0.06185459213095135,16,3,user_63
+2020-07-29 16:04:24.220183480,NASA releases new climate data showing alarming temperature trends,-0.07343737336630608,3,8,user_75
+2020-07-31 04:37:25.871559632,Arctic ice melting faster than predicted by climate models,-0.030080331221692888,13,1,user_63
+2020-08-01 17:10:27.522935776,Sustainable practices can help mitigate climate change effects #sustainability,0.14170204129816263,15,1,user_73
+2020-08-03 05:43:29.174311920,Sustainable practices can help mitigate climate change effects,0.003793783544760203,1,3,user_9
+2020-08-04 18:16:30.825688072,Arctic ice melting faster than predicted by climate models #climate,0.09993297112397537,7,2,user_37
+2020-08-06 06:49:32.477064216,International cooperation needed to address climate emergency,0.1272058982339883,5,5,user_4
+2020-08-07 19:22:34.128440368,Extreme weather events becoming more frequent due to climate change,0.15861622539057624,5,3,user_1
+2020-08-09 07:55:35.779816512,Extreme weather events becoming more frequent due to climate change,0.12238676190258639,13,0,user_84
+2020-08-10 20:28:37.431192656,Ocean temperatures reach record highs this month,-0.10078138987374313,2,17,user_63
+2020-08-12 09:01:39.082568808,Innovative technologies emerge to combat climate crisis #climate,0.6244679580736787,8,6,user_49
+2020-08-13 21:34:40.733944952,Innovative technologies emerge to combat climate crisis,0.4261464574498814,4,4,user_87
+2020-08-15 10:07:42.385321096,NASA releases new climate data showing alarming temperature trends,-0.19747825148146064,0,0,user_37
+2020-08-16 22:40:44.036697248,Sea level rise threatens coastal communities worldwide,-0.10370175693877665,12,5,user_22
+2020-08-18 11:13:45.688073392,Extreme weather events becoming more frequent due to climate change,0.2518454443942414,8,4,user_36
+2020-08-19 23:46:47.339449536,Arctic ice melting faster than predicted by climate models,-0.1417623934184772,11,0,user_28
+2020-08-21 12:19:48.990825688,Carbon emissions continue to rise despite climate agreements,-0.05647740041709423,0,7,user_74
+2020-08-23 00:52:50.642201832,Carbon emissions continue to rise despite climate agreements #climate,-0.061789246873238036,2,1,user_48
+2020-08-24 13:25:52.293577976,NASA releases new climate data showing alarming temperature trends,0.0238446633630352,7,4,user_13
+2020-08-26 01:58:53.944954128,New renewable energy breakthrough could help fight climate change #sustainability,0.1401874358596392,2,2,user_32
+2020-08-27 14:31:55.596330272,Innovative technologies emerge to combat climate crisis,0.42350080512438726,27,3,user_51
+2020-08-29 03:04:57.247706416,Extreme weather events becoming more frequent due to climate change #environment,0.29317569703945534,11,2,user_57
+2020-08-30 15:37:58.899082568,Carbon emissions continue to rise despite climate agreements,-0.0010484976856004451,3,1,user_57
+2020-09-01 04:11:00.550458712,Carbon emissions continue to rise despite climate agreements #green,-0.1639320824307004,7,3,user_93
+2020-09-02 16:44:02.201834856,Forests are crucial for carbon sequestration and climate stability,0.000799689961726585,4,2,user_55
+2020-09-04 05:17:03.853211008,Climate education is essential for future generations,-0.04525616692013629,7,2,user_49
+2020-09-05 17:50:05.504587152,Climate activists demand immediate action from world leaders,0.16511614606523134,14,4,user_8
+2020-09-07 06:23:07.155963296,Climate activists demand immediate action from world leaders,0.17045065398247233,17,0,user_64
+2020-09-08 18:56:08.807339448,Climate change impacts biodiversity and ecosystem health #sustainability,0.0057290354453016275,2,6,user_16
+2020-09-10 07:29:10.458715592,Sea level rise threatens coastal communities worldwide,0.14690233975407674,7,8,user_61
+2020-09-11 20:02:12.110091736,Sustainable practices can help mitigate climate change effects #green,-0.17437422079570655,4,0,user_94
+2020-09-13 08:35:13.761467888,Climate education is essential for future generations #green,-0.028738579484401713,22,2,user_62
+2020-09-14 21:08:15.412844032,NASA releases new climate data showing alarming temperature trends,-0.08999293054806587,2,5,user_1
+2020-09-16 09:41:17.064220184,Climate education is essential for future generations,0.05972282182533848,3,0,user_79
+2020-09-17 22:14:18.715596328,International cooperation needed to address climate emergency #sustainability,0.061787480046456816,14,4,user_37
+2020-09-19 10:47:20.366972472,International cooperation needed to address climate emergency,0.0935392053798128,7,5,user_89
+2020-09-20 23:20:22.018348624,Carbon emissions continue to rise despite climate agreements,0.03558893775543192,26,2,user_18
+2020-09-22 11:53:23.669724768,Arctic ice melting faster than predicted by climate models #climate,-0.07072933806359619,8,4,user_91
+2020-09-24 00:26:25.321100912,Ocean temperatures reach record highs this month,0.061246879401360234,3,0,user_21
+2020-09-25 12:59:26.972477064,Ocean temperatures reach record highs this month,-0.10317345797965112,15,2,user_69
+2020-09-27 01:32:28.623853208,New renewable energy breakthrough could help fight climate change,0.13684496710131483,5,2,user_66
+2020-09-28 14:05:30.275229352,Innovative technologies emerge to combat climate crisis,0.665154626919224,45,0,user_63
+2020-09-30 02:38:31.926605504,Forests are crucial for carbon sequestration and climate stability,-0.13985196480651843,5,2,user_61
+2020-10-01 15:11:33.577981648,Arctic ice melting faster than predicted by climate models,0.07153639468006338,10,4,user_89
+2020-10-03 03:44:35.229357792,Climate activists demand immediate action from world leaders,0.2608389311357192,13,0,user_47
+2020-10-04 16:17:36.880733944,NASA releases new climate data showing alarming temperature trends #environment,-0.020734413526778545,9,1,user_79
+2020-10-06 04:50:38.532110088,Climate change impacts biodiversity and ecosystem health,0.05896095466920274,10,6,user_54
+2020-10-07 17:23:40.183486232,Innovative technologies emerge to combat climate crisis #green,0.17997745637215645,6,2,user_30
+2020-10-09 05:56:41.834862384,NASA releases new climate data showing alarming temperature trends,-0.09487971531193447,11,2,user_88
+2020-10-10 18:29:43.486238528,International cooperation needed to address climate emergency,0.021187867865182276,5,1,user_57
+2020-10-12 07:02:45.137614672,Carbon emissions continue to rise despite climate agreements #climate,-0.0182420997152417,5,1,user_58
+2020-10-13 19:35:46.788990824,Arctic ice melting faster than predicted by climate models,-0.0746578346540239,7,1,user_40
+2020-10-15 08:08:48.440366968,Carbon emissions continue to rise despite climate agreements,0.08745170741325226,5,0,user_39
+2020-10-16 20:41:50.091743112,Climate change impacts biodiversity and ecosystem health,-0.07611863848144756,5,2,user_95
+2020-10-18 09:14:51.743119264,Arctic ice melting faster than predicted by climate models,-0.003143917037477642,3,6,user_10
+2020-10-19 21:47:53.394495408,Carbon emissions continue to rise despite climate agreements,0.0282187407430427,9,2,user_57
+2020-10-21 10:20:55.045871560,Sea level rise threatens coastal communities worldwide,-0.1185860547130203,0,10,user_15
+2020-10-22 22:53:56.697247704,Innovative technologies emerge to combat climate crisis,0.5814151762118267,30,4,user_20
+2020-10-24 11:26:58.348623848,Innovative technologies emerge to combat climate crisis,0.6702696488347937,13,10,user_99
+2020-10-26 00:00:00.000000000,Arctic ice melting faster than predicted by climate models,-0.006200400936603175,4,8,user_81
+2020-10-27 12:33:01.651376144,NASA releases new climate data showing alarming temperature trends,0.20859547713911886,28,0,user_25
+2020-10-29 01:06:03.302752288,Sustainable practices can help mitigate climate change effects,0.06607233944637489,10,0,user_28
+2020-10-30 13:39:04.954128440,Ocean temperatures reach record highs this month,-0.05482687949250771,14,2,user_78
+2020-11-01 02:12:06.605504584,Ocean temperatures reach record highs this month #green,-0.15549135286465984,7,1,user_62
+2020-11-02 14:45:08.256880728,Climate scientists warn of accelerating global warming,-0.06823909942858951,4,1,user_42
+2020-11-04 03:18:09.908256880,Arctic ice melting faster than predicted by climate models,-0.08866809222834574,2,1,user_77
+2020-11-05 15:51:11.559633024,NASA releases new climate data showing alarming temperature trends,0.03239104274385267,13,3,user_28
+2020-11-07 04:24:13.211009168,Climate activists demand immediate action from world leaders #sustainability,0.23651487618920816,6,1,user_13
+2020-11-08 16:57:14.862385320,Forests are crucial for carbon sequestration and climate stability,0.1388337778208448,5,0,user_73
+2020-11-10 05:30:16.513761464,Climate scientists warn of accelerating global warming,-0.06508327256299633,7,8,user_99
+2020-11-11 18:03:18.165137608,Forests are crucial for carbon sequestration and climate stability,-0.056983292823875875,10,1,user_42
+2020-11-13 06:36:19.816513760,Climate education is essential for future generations,-0.054625903812604064,26,5,user_85
+2020-11-14 19:09:21.467889904,New renewable energy breakthrough could help fight climate change #green,-0.09581736349592675,6,2,user_99
+2020-11-16 07:42:23.119266048,Ocean temperatures reach record highs this month,0.12958717818630144,13,3,user_19
+2020-11-17 20:15:24.770642200,Carbon emissions continue to rise despite climate agreements,0.03313416467793406,12,4,user_58
+2020-11-19 08:48:26.422018344,Climate change impacts biodiversity and ecosystem health,0.1472670675750982,8,1,user_40
+2020-11-20 21:21:28.073394488,NASA releases new climate data showing alarming temperature trends #green,-0.06208341578773116,12,1,user_31
+2020-11-22 09:54:29.724770640,Carbon emissions continue to rise despite climate agreements,-0.06409043492480827,14,2,user_73
+2020-11-23 22:27:31.376146784,Innovative technologies emerge to combat climate crisis,0.42039839347841224,7,2,user_44
+2020-11-25 11:00:33.027522936,Innovative technologies emerge to combat climate crisis #sustainability,0.6478723609467891,11,6,user_89
+2020-11-26 23:33:34.678899080,Arctic ice melting faster than predicted by climate models,-0.08361069958796004,1,3,user_38
+2020-11-28 12:06:36.330275224,Sustainable practices can help mitigate climate change effects,-0.057035136641368056,13,0,user_5
+2020-11-30 00:39:37.981651376,Extreme weather events becoming more frequent due to climate change #green,0.008761254748760994,9,9,user_10
+2020-12-01 13:12:39.633027520,Climate activists demand immediate action from world leaders #green,-0.028021567657553887,11,3,user_55
+2020-12-03 01:45:41.284403664,New renewable energy breakthrough could help fight climate change,0.15125464394827354,5,2,user_76
+2020-12-04 14:18:42.935779816,Sea level rise threatens coastal communities worldwide,-0.02122089699011517,12,2,user_31
+2020-12-06 02:51:44.587155960,Climate scientists warn of accelerating global warming,0.04506555553346548,9,3,user_79
+2020-12-07 15:24:46.238532104,NASA releases new climate data showing alarming temperature trends,-0.06161752203632949,8,2,user_90
+2020-12-09 03:57:47.889908256,Sustainable practices can help mitigate climate change effects,-0.15193460754768426,4,0,user_27
+2020-12-10 16:30:49.541284400,Sustainable practices can help mitigate climate change effects,0.04107621895758842,7,2,user_26
+2020-12-12 05:03:51.192660544,International cooperation needed to address climate emergency,0.04492187212850343,3,1,user_17
+2020-12-13 17:36:52.844036696,Climate activists demand immediate action from world leaders #climate,0.027958514319616254,4,5,user_35
+2020-12-15 06:09:54.495412840,Innovative technologies emerge to combat climate crisis #green,0.2845803267362869,6,9,user_14
+2020-12-16 18:42:56.146788984,New renewable energy breakthrough could help fight climate change,0.10068978003773355,3,1,user_62
+2020-12-18 07:15:57.798165136,Climate scientists warn of accelerating global warming,-0.1514470309180767,8,3,user_57
+2020-12-19 19:48:59.449541280,Ocean temperatures reach record highs this month,-0.02559305616697534,6,2,user_98
+2020-12-21 08:22:01.100917424,Forests are crucial for carbon sequestration and climate stability #sustainability,0.015187760961393976,19,0,user_18
+2020-12-22 20:55:02.752293576,International cooperation needed to address climate emergency,-0.1951101864038625,7,2,user_11
+2020-12-24 09:28:04.403669720,Forests are crucial for carbon sequestration and climate stability #green,-0.10856080894712461,2,1,user_70
+2020-12-25 22:01:06.055045864,Ocean temperatures reach record highs this month #green,-0.05117646831305242,1,2,user_73
+2020-12-27 10:34:07.706422016,Sea level rise threatens coastal communities worldwide,-0.13642477552179105,6,5,user_25
+2020-12-28 23:07:09.357798160,Climate change impacts biodiversity and ecosystem health,-0.17487460761363882,23,5,user_41
+2020-12-30 11:40:11.009174312,Climate activists demand immediate action from world leaders,0.21103489799142933,3,3,user_21
+2021-01-01 00:13:12.660550456,Extreme weather events becoming more frequent due to climate change #sustainability,0.06951080739521331,3,1,user_99
+2021-01-02 12:46:14.311926600,New renewable energy breakthrough could help fight climate change #green,-0.1707166954354276,6,2,user_2
+2021-01-04 01:19:15.963302752,Innovative technologies emerge to combat climate crisis,0.3980493797615813,22,6,user_12
+2021-01-05 13:52:17.614678896,Sustainable practices can help mitigate climate change effects #climate,-0.21272274203514954,3,0,user_90
+2021-01-07 02:25:19.266055040,Climate scientists warn of accelerating global warming,0.0841983695452127,6,4,user_37
+2021-01-08 14:58:20.917431192,Sustainable practices can help mitigate climate change effects,-0.0775034189423724,12,4,user_20
+2021-01-10 03:31:22.568807336,Climate activists demand immediate action from world leaders,0.17143189358736532,3,0,user_30
+2021-01-11 16:04:24.220183480,Sustainable practices can help mitigate climate change effects,-0.06234643403560272,13,0,user_73
+2021-01-13 04:37:25.871559632,Sea level rise threatens coastal communities worldwide,-0.12341211350090704,13,3,user_32
+2021-01-14 17:10:27.522935776,Climate scientists warn of accelerating global warming,0.012855392339006537,6,2,user_94
+2021-01-16 05:43:29.174311920,International cooperation needed to address climate emergency,-0.29530751006512695,12,3,user_66
+2021-01-17 18:16:30.825688072,Forests are crucial for carbon sequestration and climate stability,-0.18360719875025394,3,1,user_88
+2021-01-19 06:49:32.477064216,NASA releases new climate data showing alarming temperature trends,0.061913136885714246,10,1,user_81
+2021-01-20 19:22:34.128440360,NASA releases new climate data showing alarming temperature trends,0.07343855724751927,3,3,user_19
+2021-01-22 07:55:35.779816512,Innovative technologies emerge to combat climate crisis,0.6309144386917597,22,3,user_42
+2021-01-23 20:28:37.431192656,International cooperation needed to address climate emergency,0.028375102366150113,3,1,user_40
+2021-01-25 09:01:39.082568800,Climate activists demand immediate action from world leaders,-0.11148662950169905,2,10,user_27
+2021-01-26 21:34:40.733944952,Arctic ice melting faster than predicted by climate models,0.01847104747810833,16,1,user_18
+2021-01-28 10:07:42.385321096,Carbon emissions continue to rise despite climate agreements,5.0006503362953284e-05,7,4,user_36
+2021-01-29 22:40:44.036697240,Extreme weather events becoming more frequent due to climate change,0.22032475005713936,12,7,user_67
+2021-01-31 11:13:45.688073392,Sea level rise threatens coastal communities worldwide,0.11606990035971831,4,1,user_78
+2021-02-01 23:46:47.339449536,Sea level rise threatens coastal communities worldwide,-0.09046143749937662,16,0,user_44
+2021-02-03 12:19:48.990825688,NASA releases new climate data showing alarming temperature trends #sustainability,0.08905368553361133,8,0,user_31
+2021-02-05 00:52:50.642201832,Ocean temperatures reach record highs this month,-0.10629096824531188,16,2,user_73
+2021-02-06 13:25:52.293577976,Sustainable practices can help mitigate climate change effects,-0.21523835446091805,12,0,user_84
+2021-02-08 01:58:53.944954128,Climate change impacts biodiversity and ecosystem health,-0.05951034386477236,19,6,user_1
+2021-02-09 14:31:55.596330272,NASA releases new climate data showing alarming temperature trends,0.051984166291988994,10,5,user_60
+2021-02-11 03:04:57.247706416,Ocean temperatures reach record highs this month,0.01895638564346311,3,1,user_91
+2021-02-12 15:37:58.899082568,Sustainable practices can help mitigate climate change effects #climate,0.13299968375466573,34,0,user_72
+2021-02-14 04:11:00.550458712,Innovative technologies emerge to combat climate crisis,0.4018354929824778,4,5,user_51
+2021-02-15 16:44:02.201834856,Climate change impacts biodiversity and ecosystem health,0.12022387804156741,12,2,user_6
+2021-02-17 05:17:03.853211008,Climate education is essential for future generations,-0.09657850201389448,10,0,user_7
+2021-02-18 17:50:05.504587152,Forests are crucial for carbon sequestration and climate stability #green,-0.08643679912240466,11,0,user_37
+2021-02-20 06:23:07.155963296,Climate education is essential for future generations #green,-0.16930358743325588,15,8,user_11
+2021-02-21 18:56:08.807339448,Climate change impacts biodiversity and ecosystem health #sustainability,-0.05790453361681495,4,5,user_25
+2021-02-23 07:29:10.458715592,Extreme weather events becoming more frequent due to climate change,0.15988532109245363,5,2,user_47
+2021-02-24 20:02:12.110091736,New renewable energy breakthrough could help fight climate change,0.24240322688702465,6,3,user_22
+2021-02-26 08:35:13.761467888,NASA releases new climate data showing alarming temperature trends #climate,-0.038783325234014426,4,0,user_4
+2021-02-27 21:08:15.412844032,NASA releases new climate data showing alarming temperature trends,-0.03217384439991909,3,4,user_61
+2021-03-01 09:41:17.064220176,Ocean temperatures reach record highs this month,-0.08555672364232793,3,5,user_28
+2021-03-02 22:14:18.715596328,Climate change impacts biodiversity and ecosystem health #sustainability,0.16935507907153555,8,0,user_48
+2021-03-04 10:47:20.366972472,Climate education is essential for future generations #sustainability,-0.1432939120685514,7,0,user_1
+2021-03-05 23:20:22.018348616,International cooperation needed to address climate emergency #sustainability,-0.10110417646098109,3,0,user_19
+2021-03-07 11:53:23.669724768,New renewable energy breakthrough could help fight climate change,0.18921542480312895,23,3,user_2
+2021-03-09 00:26:25.321100912,Climate scientists warn of accelerating global warming,-0.14729863877417557,6,0,user_59
+2021-03-10 12:59:26.972477064,International cooperation needed to address climate emergency #green,-0.16403976790586056,3,2,user_85
+2021-03-12 01:32:28.623853208,Sea level rise threatens coastal communities worldwide,0.07336451466812959,8,2,user_49
+2021-03-13 14:05:30.275229352,Climate activists demand immediate action from world leaders,0.14341422202622162,13,5,user_15
+2021-03-15 02:38:31.926605504,Sea level rise threatens coastal communities worldwide,-0.05082603508951309,5,1,user_6
+2021-03-16 15:11:33.577981648,Climate change impacts biodiversity and ecosystem health,-0.2929448690002268,21,2,user_85
+2021-03-18 03:44:35.229357792,Ocean temperatures reach record highs this month,0.018911121660394065,25,9,user_77
+2021-03-19 16:17:36.880733944,New renewable energy breakthrough could help fight climate change,0.15389231425702873,2,1,user_12
+2021-03-21 04:50:38.532110088,Climate activists demand immediate action from world leaders,0.18209668843684007,10,0,user_43
+2021-03-22 17:23:40.183486232,Extreme weather events becoming more frequent due to climate change,0.25778155496862,0,0,user_96
+2021-03-24 05:56:41.834862384,Climate scientists warn of accelerating global warming,0.1770167615647273,14,2,user_69
+2021-03-25 18:29:43.486238528,Climate activists demand immediate action from world leaders,-0.026141899175140065,11,1,user_77
+2021-03-27 07:02:45.137614672,Arctic ice melting faster than predicted by climate models,-0.0753184124403666,15,3,user_14
+2021-03-28 19:35:46.788990824,Extreme weather events becoming more frequent due to climate change #green,-0.05272956904278095,11,1,user_92
+2021-03-30 08:08:48.440366968,Climate change impacts biodiversity and ecosystem health,0.04347700645568912,12,2,user_99
+2021-03-31 20:41:50.091743112,Carbon emissions continue to rise despite climate agreements,-0.03662416974781795,11,0,user_35
+2021-04-02 09:14:51.743119264,Climate change impacts biodiversity and ecosystem health #green,-0.06319015182361873,2,0,user_87
+2021-04-03 21:47:53.394495408,International cooperation needed to address climate emergency,-0.10513099116393446,34,0,user_47
+2021-04-05 10:20:55.045871552,Carbon emissions continue to rise despite climate agreements,-0.059519673094229154,7,6,user_21
+2021-04-06 22:53:56.697247704,Innovative technologies emerge to combat climate crisis,0.4180134454966248,10,1,user_92
+2021-04-08 11:26:58.348623848,NASA releases new climate data showing alarming temperature trends,-0.037352412204514365,3,1,user_75
+2021-04-09 23:59:59.999999992,Climate education is essential for future generations,0.03198861402745091,10,0,user_64
+2021-04-11 12:33:01.651376144,NASA releases new climate data showing alarming temperature trends,-0.018093835098137438,5,2,user_98
+2021-04-13 01:06:03.302752288,Climate activists demand immediate action from world leaders,-0.07889894127970049,17,3,user_73
+2021-04-14 13:39:04.954128432,NASA releases new climate data showing alarming temperature trends,-0.020164286393947163,5,0,user_21
+2021-04-16 02:12:06.605504576,Innovative technologies emerge to combat climate crisis,0.29812462934167094,7,4,user_18
+2021-04-17 14:45:08.256880736,Climate change impacts biodiversity and ecosystem health,0.12317682294894926,1,1,user_81
+2021-04-19 03:18:09.908256880,International cooperation needed to address climate emergency,0.07851252206756269,8,5,user_2
+2021-04-20 15:51:11.559633024,Sustainable practices can help mitigate climate change effects #environment,-0.08336361449084521,12,0,user_94
+2021-04-22 04:24:13.211009168,New renewable energy breakthrough could help fight climate change,0.24454625146766268,7,0,user_73
+2021-04-23 16:57:14.862385312,Climate scientists warn of accelerating global warming,0.04752714739719899,10,0,user_95
+2021-04-25 05:30:16.513761456,Climate activists demand immediate action from world leaders,-0.03937933664700233,5,2,user_92
+2021-04-26 18:03:18.165137616,Innovative technologies emerge to combat climate crisis #sustainability,0.431277346908599,1,1,user_83
+2021-04-28 06:36:19.816513760,Climate education is essential for future generations,0.07640297815728596,9,2,user_55
+2021-04-29 19:09:21.467889904,Ocean temperatures reach record highs this month #climate,0.12377244855291364,23,3,user_51
+2021-05-01 07:42:23.119266048,Carbon emissions continue to rise despite climate agreements,0.011032110584719063,6,3,user_6
+2021-05-02 20:15:24.770642192,Carbon emissions continue to rise despite climate agreements,0.04071054154460675,6,5,user_75
+2021-05-04 08:48:26.422018352,Innovative technologies emerge to combat climate crisis,0.4607678997487258,10,3,user_54
+2021-05-05 21:21:28.073394496,Carbon emissions continue to rise despite climate agreements,-0.013012262968988672,15,1,user_29
+2021-05-07 09:54:29.724770640,International cooperation needed to address climate emergency,0.1265366093031565,24,5,user_80
+2021-05-08 22:27:31.376146784,Extreme weather events becoming more frequent due to climate change,0.1174138413598402,13,1,user_63
+2021-05-10 11:00:33.027522928,Climate scientists warn of accelerating global warming,-0.022965726872842974,1,2,user_61
+2021-05-11 23:33:34.678899072,International cooperation needed to address climate emergency,0.06676607926469234,4,1,user_79
+2021-05-13 12:06:36.330275232,International cooperation needed to address climate emergency #sustainability,-0.03842380184636706,11,5,user_96
+2021-05-15 00:39:37.981651376,Sustainable practices can help mitigate climate change effects,0.03419050212654704,8,1,user_78
+2021-05-16 13:12:39.633027520,Climate activists demand immediate action from world leaders,0.08583302146433962,2,2,user_91
+2021-05-18 01:45:41.284403664,Extreme weather events becoming more frequent due to climate change,0.061367323607494195,18,2,user_61
+2021-05-19 14:18:42.935779808,New renewable energy breakthrough could help fight climate change #climate,0.18605099541439607,20,0,user_85
+2021-05-21 02:51:44.587155952,Sea level rise threatens coastal communities worldwide,-0.02855036969711149,14,2,user_73
+2021-05-22 15:24:46.238532112,New renewable energy breakthrough could help fight climate change #environment,0.1842455111849439,16,3,user_88
+2021-05-24 03:57:47.889908256,Climate scientists warn of accelerating global warming,0.016805980596682025,2,0,user_55
+2021-05-25 16:30:49.541284400,Climate scientists warn of accelerating global warming #environment,0.12528426344274837,6,10,user_79
+2021-05-27 05:03:51.192660544,Arctic ice melting faster than predicted by climate models #sustainability,-0.06053929239275391,8,1,user_18
+2021-05-28 17:36:52.844036688,Innovative technologies emerge to combat climate crisis,0.5909651539558826,7,8,user_90
+2021-05-30 06:09:54.495412832,Climate education is essential for future generations #sustainability,-0.028612359004294735,2,1,user_88
+2021-05-31 18:42:56.146788992,Forests are crucial for carbon sequestration and climate stability,-0.10637896161020317,3,0,user_30
+2021-06-02 07:15:57.798165136,Sustainable practices can help mitigate climate change effects #green,-0.15284576195817945,10,5,user_30
+2021-06-03 19:48:59.449541280,Arctic ice melting faster than predicted by climate models,-0.10425776946705763,2,1,user_19
+2021-06-05 08:22:01.100917424,Climate activists demand immediate action from world leaders,0.128863215089838,10,7,user_91
+2021-06-06 20:55:02.752293568,New renewable energy breakthrough could help fight climate change #green,-0.11121184922866521,0,1,user_7
+2021-06-08 09:28:04.403669728,Climate change impacts biodiversity and ecosystem health,0.0001734356742450919,17,2,user_16
+2021-06-09 22:01:06.055045872,Sea level rise threatens coastal communities worldwide,-0.09341477131078442,11,3,user_1
+2021-06-11 10:34:07.706422016,Extreme weather events becoming more frequent due to climate change,0.2618812079700944,25,1,user_23
+2021-06-12 23:07:09.357798160,Innovative technologies emerge to combat climate crisis,0.5901551256574764,27,5,user_97
+2021-06-14 11:40:11.009174304,Sea level rise threatens coastal communities worldwide,-0.06528873581990659,0,1,user_71
+2021-06-16 00:13:12.660550448,Ocean temperatures reach record highs this month #sustainability,0.21009787727771512,3,0,user_71
+2021-06-17 12:46:14.311926608,Innovative technologies emerge to combat climate crisis,0.4556905126043929,26,1,user_64
+2021-06-19 01:19:15.963302752,Climate change impacts biodiversity and ecosystem health,-0.07097889922335351,3,7,user_59
+2021-06-20 13:52:17.614678896,Arctic ice melting faster than predicted by climate models,0.0333012047116258,0,1,user_90
+2021-06-22 02:25:19.266055040,NASA releases new climate data showing alarming temperature trends #climate,-0.11315566846570614,1,4,user_40
+2021-06-23 14:58:20.917431184,Climate education is essential for future generations,-0.00070449854805547,7,3,user_94
+2021-06-25 03:31:22.568807328,Carbon emissions continue to rise despite climate agreements #climate,-0.021347213599941885,16,2,user_18
+2021-06-26 16:04:24.220183488,Innovative technologies emerge to combat climate crisis,0.47537578780512824,18,1,user_20
+2021-06-28 04:37:25.871559632,Carbon emissions continue to rise despite climate agreements,0.1191899334413573,7,0,user_52
+2021-06-29 17:10:27.522935776,Innovative technologies emerge to combat climate crisis,0.5297394853531108,11,3,user_33
+2021-07-01 05:43:29.174311920,Climate change impacts biodiversity and ecosystem health #sustainability,0.08655584487572418,14,0,user_24
+2021-07-02 18:16:30.825688064,Sustainable practices can help mitigate climate change effects #climate,0.10491254172400255,8,1,user_29
+2021-07-04 06:49:32.477064208,Sea level rise threatens coastal communities worldwide,-0.11354666958101699,10,0,user_26
+2021-07-05 19:22:34.128440368,Climate activists demand immediate action from world leaders,0.12185340424109457,4,0,user_26
+2021-07-07 07:55:35.779816512,New renewable energy breakthrough could help fight climate change,0.22115685369896276,19,4,user_59
+2021-07-08 20:28:37.431192656,Climate education is essential for future generations,0.08875039674140595,15,0,user_6
+2021-07-10 09:01:39.082568800,Sustainable practices can help mitigate climate change effects #environment,0.08642436147342264,1,5,user_19
+2021-07-11 21:34:40.733944944,Extreme weather events becoming more frequent due to climate change,0.2974798914563165,3,4,user_9
+2021-07-13 10:07:42.385321104,International cooperation needed to address climate emergency,0.07360788163422731,10,0,user_38
+2021-07-14 22:40:44.036697248,Carbon emissions continue to rise despite climate agreements #climate,0.05886526793824348,8,2,user_41
+2021-07-16 11:13:45.688073392,Innovative technologies emerge to combat climate crisis #climate,0.5768839675968896,19,5,user_42
+2021-07-17 23:46:47.339449536,Sustainable practices can help mitigate climate change effects #climate,0.0347561613803552,9,2,user_8
+2021-07-19 12:19:48.990825680,Sustainable practices can help mitigate climate change effects,0.012407272571949353,20,8,user_11
+2021-07-21 00:52:50.642201824,Climate change impacts biodiversity and ecosystem health,0.05531491563792092,5,2,user_54
+2021-07-22 13:25:52.293577984,Arctic ice melting faster than predicted by climate models,-0.08259841780265165,13,2,user_44
+2021-07-24 01:58:53.944954128,Extreme weather events becoming more frequent due to climate change,0.3243378155804534,14,16,user_88
+2021-07-25 14:31:55.596330272,NASA releases new climate data showing alarming temperature trends,0.05589102755606579,5,4,user_52
+2021-07-27 03:04:57.247706416,Innovative technologies emerge to combat climate crisis,0.4015006874182985,13,8,user_33
+2021-07-28 15:37:58.899082560,New renewable energy breakthrough could help fight climate change,0.11510577356477955,35,0,user_88
+2021-07-30 04:11:00.550458704,Carbon emissions continue to rise despite climate agreements,-0.07811563781311143,6,3,user_68
+2021-07-31 16:44:02.201834864,Innovative technologies emerge to combat climate crisis,0.6016093521646967,4,5,user_8
+2021-08-02 05:17:03.853211008,Arctic ice melting faster than predicted by climate models #climate,-0.02215132629521239,3,1,user_76
+2021-08-03 17:50:05.504587152,Arctic ice melting faster than predicted by climate models,-0.010434279298689193,11,2,user_88
+2021-08-05 06:23:07.155963296,Climate change impacts biodiversity and ecosystem health,-0.054010309359878474,20,3,user_5
+2021-08-06 18:56:08.807339440,Forests are crucial for carbon sequestration and climate stability #climate,-0.091589739379972,2,11,user_99
+2021-08-08 07:29:10.458715584,International cooperation needed to address climate emergency,-0.028587829619347496,5,0,user_61
+2021-08-09 20:02:12.110091744,New renewable energy breakthrough could help fight climate change #climate,0.01903668076324333,7,1,user_61
+2021-08-11 08:35:13.761467888,International cooperation needed to address climate emergency,-0.030561911106831298,6,2,user_97
+2021-08-12 21:08:15.412844032,Climate change impacts biodiversity and ecosystem health,0.17044545503941577,3,2,user_58
+2021-08-14 09:41:17.064220176,Climate education is essential for future generations,-0.13261981556428842,24,0,user_51
+2021-08-15 22:14:18.715596320,Innovative technologies emerge to combat climate crisis,0.4235954218406157,4,1,user_95
+2021-08-17 10:47:20.366972480,Arctic ice melting faster than predicted by climate models,-0.06442818174485494,3,0,user_9
+2021-08-18 23:20:22.018348624,Sustainable practices can help mitigate climate change effects #sustainability,0.1146030144142065,4,0,user_42
+2021-08-20 11:53:23.669724768,Climate change impacts biodiversity and ecosystem health,0.21167468214796506,4,0,user_91
+2021-08-22 00:26:25.321100912,Carbon emissions continue to rise despite climate agreements,0.1684348516124981,19,1,user_2
+2021-08-23 12:59:26.972477056,NASA releases new climate data showing alarming temperature trends,0.18380264338754776,7,3,user_51
+2021-08-25 01:32:28.623853200,Forests are crucial for carbon sequestration and climate stability,0.025622183608197815,12,3,user_64
+2021-08-26 14:05:30.275229360,Climate education is essential for future generations,0.031165285600477835,4,2,user_95
+2021-08-28 02:38:31.926605504,Climate change impacts biodiversity and ecosystem health,0.02230912250598942,19,2,user_37
+2021-08-29 15:11:33.577981648,Sustainable practices can help mitigate climate change effects,0.047982703536683304,3,3,user_19
+2021-08-31 03:44:35.229357792,Sustainable practices can help mitigate climate change effects,0.11416288643294895,6,0,user_10
+2021-09-01 16:17:36.880733936,Innovative technologies emerge to combat climate crisis #green,0.09982710950711217,10,6,user_17
+2021-09-03 04:50:38.532110080,New renewable energy breakthrough could help fight climate change,0.20172632516233285,7,0,user_19
+2021-09-04 17:23:40.183486240,Climate scientists warn of accelerating global warming,0.025192536330908278,3,2,user_71
+2021-09-06 05:56:41.834862384,Innovative technologies emerge to combat climate crisis,0.33328436628226443,21,3,user_47
+2021-09-07 18:29:43.486238528,Extreme weather events becoming more frequent due to climate change #sustainability,0.171053531747394,5,2,user_55
+2021-09-09 07:02:45.137614672,Climate scientists warn of accelerating global warming,-0.11731565590327733,5,1,user_77
+2021-09-10 19:35:46.788990816,NASA releases new climate data showing alarming temperature trends #climate,0.0770942129485696,10,6,user_27
+2021-09-12 08:08:48.440366960,International cooperation needed to address climate emergency,0.1095058866481386,16,3,user_4
+2021-09-13 20:41:50.091743120,Extreme weather events becoming more frequent due to climate change,0.12920976577294,8,2,user_42
+2021-09-15 09:14:51.743119264,Climate activists demand immediate action from world leaders,0.11773791709144679,0,7,user_1
+2021-09-16 21:47:53.394495408,Innovative technologies emerge to combat climate crisis,0.40035840168336867,17,7,user_34
+2021-09-18 10:20:55.045871552,Sea level rise threatens coastal communities worldwide,0.01987945883388536,6,1,user_72
+2021-09-19 22:53:56.697247696,International cooperation needed to address climate emergency,0.08028040582132207,48,1,user_66
+2021-09-21 11:26:58.348623856,Forests are crucial for carbon sequestration and climate stability,0.09231222677708861,5,1,user_79
+2021-09-23 00:00:00.000000000,Carbon emissions continue to rise despite climate agreements,0.007879301820784588,9,2,user_79
+2021-09-24 12:33:01.651376144,Climate education is essential for future generations,0.15949534514053204,6,7,user_34
+2021-09-26 01:06:03.302752288,Extreme weather events becoming more frequent due to climate change,0.3206547386288335,4,1,user_51
+2021-09-27 13:39:04.954128432,Ocean temperatures reach record highs this month,-0.15184536589670916,6,0,user_96
+2021-09-29 02:12:06.605504576,Innovative technologies emerge to combat climate crisis,0.5934033759972336,4,3,user_99
+2021-09-30 14:45:08.256880736,Ocean temperatures reach record highs this month,0.10837352980540137,3,1,user_46
+2021-10-02 03:18:09.908256880,Climate education is essential for future generations,-0.16359888354397745,2,4,user_2
+2021-10-03 15:51:11.559633024,Climate activists demand immediate action from world leaders #environment,0.2220282896417717,3,6,user_58
+2021-10-05 04:24:13.211009168,Climate change impacts biodiversity and ecosystem health #green,-0.25890902225314016,6,1,user_57
+2021-10-06 16:57:14.862385312,Carbon emissions continue to rise despite climate agreements,0.013051561300409568,1,2,user_67
+2021-10-08 05:30:16.513761456,Carbon emissions continue to rise despite climate agreements,-0.12797979861194705,5,1,user_12
+2021-10-09 18:03:18.165137616,Sea level rise threatens coastal communities worldwide,0.015332866213718016,2,2,user_38
+2021-10-11 06:36:19.816513760,Arctic ice melting faster than predicted by climate models #green,-0.16925964302803118,3,10,user_5
+2021-10-12 19:09:21.467889904,Sea level rise threatens coastal communities worldwide #environment,0.0982178986766688,8,1,user_42
+2021-10-14 07:42:23.119266048,Forests are crucial for carbon sequestration and climate stability,-0.05003860901204341,10,0,user_92
+2021-10-15 20:15:24.770642192,New renewable energy breakthrough could help fight climate change,0.3405706016564244,19,8,user_26
+2021-10-17 08:48:26.422018336,Sea level rise threatens coastal communities worldwide,-0.06862791357550845,1,6,user_95
+2021-10-18 21:21:28.073394496,Ocean temperatures reach record highs this month #climate,0.036977343711505614,7,3,user_64
+2021-10-20 09:54:29.724770640,Sustainable practices can help mitigate climate change effects #climate,-0.04629561026084717,2,4,user_35
+2021-10-21 22:27:31.376146784,International cooperation needed to address climate emergency,0.035888975994685254,14,4,user_2
+2021-10-23 11:00:33.027522928,Arctic ice melting faster than predicted by climate models,0.12035365819066926,12,8,user_76
+2021-10-24 23:33:34.678899072,Climate scientists warn of accelerating global warming,-0.01893924425107032,6,6,user_72
+2021-10-26 12:06:36.330275232,New renewable energy breakthrough could help fight climate change,0.23095060073205093,7,3,user_95
+2021-10-28 00:39:37.981651376,Sustainable practices can help mitigate climate change effects,-0.08026613902337146,7,1,user_46
+2021-10-29 13:12:39.633027520,Climate activists demand immediate action from world leaders #green,0.01958638390937853,28,1,user_63
+2021-10-31 01:45:41.284403664,New renewable energy breakthrough could help fight climate change #green,0.21460306228174023,12,15,user_10
+2021-11-01 14:18:42.935779808,Sustainable practices can help mitigate climate change effects #green,-0.11759015433373687,4,1,user_93
+2021-11-03 02:51:44.587155952,Extreme weather events becoming more frequent due to climate change,0.28676515111879736,13,7,user_90
+2021-11-04 15:24:46.238532112,Sustainable practices can help mitigate climate change effects #sustainability,-0.1708654247142625,9,5,user_42
+2021-11-06 03:57:47.889908256,Climate scientists warn of accelerating global warming,-0.10964013645051113,15,1,user_25
+2021-11-07 16:30:49.541284400,Extreme weather events becoming more frequent due to climate change,0.17962891678147608,1,5,user_82
+2021-11-09 05:03:51.192660544,Sea level rise threatens coastal communities worldwide #environment,0.06377194971819161,12,5,user_94
+2021-11-10 17:36:52.844036688,Climate activists demand immediate action from world leaders,0.015484604157384105,12,4,user_74
+2021-11-12 06:09:54.495412832,Ocean temperatures reach record highs this month #green,-0.20117235032091935,2,4,user_11
+2021-11-13 18:42:56.146788992,NASA releases new climate data showing alarming temperature trends #sustainability,-0.14834908968594557,5,4,user_20
+2021-11-15 07:15:57.798165136,Arctic ice melting faster than predicted by climate models,-0.12657126521695894,7,0,user_30
+2021-11-16 19:48:59.449541280,Extreme weather events becoming more frequent due to climate change,0.21337032009686374,49,2,user_53
+2021-11-18 08:22:01.100917424,Climate scientists warn of accelerating global warming,-0.09264890647002436,18,0,user_44
+2021-11-19 20:55:02.752293568,Sea level rise threatens coastal communities worldwide,0.04228788467533307,0,0,user_48
+2021-11-21 09:28:04.403669712,Climate education is essential for future generations,-0.08791630156213318,2,4,user_2
+2021-11-22 22:01:06.055045872,Ocean temperatures reach record highs this month,0.02844917858945168,10,0,user_5
+2021-11-24 10:34:07.706422016,NASA releases new climate data showing alarming temperature trends,0.012423616526946044,13,2,user_49
+2021-11-25 23:07:09.357798160,NASA releases new climate data showing alarming temperature trends,-0.01906679396871727,12,1,user_42
+2021-11-27 11:40:11.009174304,Sustainable practices can help mitigate climate change effects,-0.10046970996542737,5,2,user_82
+2021-11-29 00:13:12.660550448,Innovative technologies emerge to combat climate crisis,0.5189405900779561,7,1,user_37
+2021-11-30 12:46:14.311926608,Carbon emissions continue to rise despite climate agreements,-0.03944726934280214,10,1,user_3
+2021-12-02 01:19:15.963302752,Innovative technologies emerge to combat climate crisis,0.4700818227572566,9,1,user_25
+2021-12-03 13:52:17.614678896,Ocean temperatures reach record highs this month,-0.03386843240985971,7,2,user_82
+2021-12-05 02:25:19.266055040,Sustainable practices can help mitigate climate change effects #environment,-0.09845340504819682,8,1,user_34
+2021-12-06 14:58:20.917431184,New renewable energy breakthrough could help fight climate change,0.1588423266368522,3,2,user_70
+2021-12-08 03:31:22.568807328,Forests are crucial for carbon sequestration and climate stability,-0.033803804090994614,3,4,user_52
+2021-12-09 16:04:24.220183488,Climate education is essential for future generations,-0.03898656237934682,1,3,user_73
+2021-12-11 04:37:25.871559632,Ocean temperatures reach record highs this month #climate,-0.11226314450393454,2,7,user_27
+2021-12-12 17:10:27.522935776,Carbon emissions continue to rise despite climate agreements,0.10182095845526969,0,5,user_83
+2021-12-14 05:43:29.174311920,NASA releases new climate data showing alarming temperature trends,0.10285557593495197,11,6,user_92
+2021-12-15 18:16:30.825688064,New renewable energy breakthrough could help fight climate change #environment,0.28691186483477094,16,1,user_30
+2021-12-17 06:49:32.477064208,Innovative technologies emerge to combat climate crisis,0.5060257677332475,12,4,user_6
+2021-12-18 19:22:34.128440368,Climate education is essential for future generations #environment,0.06373246830230726,25,2,user_70
+2021-12-20 07:55:35.779816512,Climate education is essential for future generations,-0.1374371404295248,7,4,user_23
+2021-12-21 20:28:37.431192656,Sea level rise threatens coastal communities worldwide,-0.007315959598146545,14,1,user_25
+2021-12-23 09:01:39.082568800,Sustainable practices can help mitigate climate change effects #environment,-0.011010868425606625,12,0,user_67
+2021-12-24 21:34:40.733944944,Arctic ice melting faster than predicted by climate models #green,-0.10424452809781154,6,0,user_29
+2021-12-26 10:07:42.385321088,Arctic ice melting faster than predicted by climate models,-0.04489740811290616,8,2,user_58
+2021-12-27 22:40:44.036697248,Climate education is essential for future generations #green,-0.21729080522929756,3,0,user_74
+2021-12-29 11:13:45.688073392,NASA releases new climate data showing alarming temperature trends #green,-0.16039802319116606,5,6,user_25
+2021-12-30 23:46:47.339449536,NASA releases new climate data showing alarming temperature trends,0.09706031649454831,11,2,user_44
+2022-01-01 12:19:48.990825680,Climate scientists warn of accelerating global warming,0.007402935234123845,18,5,user_76
+2022-01-03 00:52:50.642201824,Arctic ice melting faster than predicted by climate models,0.04096361186839937,11,2,user_94
+2022-01-04 13:25:52.293577984,Climate education is essential for future generations,-0.1177611007811773,12,2,user_5
+2022-01-06 01:58:53.944954128,Climate scientists warn of accelerating global warming,-0.008091733766268821,0,2,user_70
+2022-01-07 14:31:55.596330272,Climate activists demand immediate action from world leaders,0.2996850218688851,4,4,user_25
+2022-01-09 03:04:57.247706416,Climate activists demand immediate action from world leaders #green,-0.002536654598582634,21,3,user_33
+2022-01-10 15:37:58.899082560,Carbon emissions continue to rise despite climate agreements,0.01734869732270888,17,3,user_39
+2022-01-12 04:11:00.550458704,Climate activists demand immediate action from world leaders,0.07640834706878762,6,3,user_77
+2022-01-13 16:44:02.201834864,Climate change impacts biodiversity and ecosystem health,-0.06608607622268543,4,4,user_41
+2022-01-15 05:17:03.853211008,Innovative technologies emerge to combat climate crisis #climate,0.3692395519319648,1,2,user_29
+2022-01-16 17:50:05.504587152,Sea level rise threatens coastal communities worldwide #sustainability,-0.17832214812837976,16,2,user_81
+2022-01-18 06:23:07.155963296,Innovative technologies emerge to combat climate crisis,0.6078533546062947,10,1,user_18
+2022-01-19 18:56:08.807339440,Climate activists demand immediate action from world leaders,-0.21767038131960006,32,2,user_34
+2022-01-21 07:29:10.458715584,Climate scientists warn of accelerating global warming,0.02196451602830454,6,0,user_99
+2022-01-22 20:02:12.110091744,Innovative technologies emerge to combat climate crisis,0.4739499410593667,10,2,user_17
+2022-01-24 08:35:13.761467888,Climate activists demand immediate action from world leaders,0.19530015927659816,4,0,user_97
+2022-01-25 21:08:15.412844032,Sea level rise threatens coastal communities worldwide,0.07341807935351356,14,1,user_14
+2022-01-27 09:41:17.064220176,Innovative technologies emerge to combat climate crisis #environment,0.4719760615255809,28,1,user_36
+2022-01-28 22:14:18.715596320,Innovative technologies emerge to combat climate crisis,0.40818848275654807,19,2,user_26
+2022-01-30 10:47:20.366972464,Climate activists demand immediate action from world leaders,0.06216481174002336,9,4,user_87
+2022-01-31 23:20:22.018348624,Ocean temperatures reach record highs this month,0.061973878470286875,4,0,user_26
+2022-02-02 11:53:23.669724768,Climate change impacts biodiversity and ecosystem health,-0.019848445851506098,3,5,user_66
+2022-02-04 00:26:25.321100912,Forests are crucial for carbon sequestration and climate stability #sustainability,0.053097566196409055,5,3,user_99
+2022-02-05 12:59:26.972477056,Climate activists demand immediate action from world leaders #sustainability,0.002725922636818076,12,10,user_10
+2022-02-07 01:32:28.623853200,Forests are crucial for carbon sequestration and climate stability #green,-0.09398998060935991,6,3,user_13
+2022-02-08 14:05:30.275229360,New renewable energy breakthrough could help fight climate change,-0.12098878800617763,5,2,user_43
+2022-02-10 02:38:31.926605504,International cooperation needed to address climate emergency,-0.052213157001999244,36,6,user_2
+2022-02-11 15:11:33.577981648,International cooperation needed to address climate emergency,-0.031520292616347895,6,1,user_82
+2022-02-13 03:44:35.229357792,Carbon emissions continue to rise despite climate agreements,0.09678260240252042,20,4,user_24
+2022-02-14 16:17:36.880733936,NASA releases new climate data showing alarming temperature trends #green,-0.13172265028474206,20,1,user_28
+2022-02-16 04:50:38.532110080,Forests are crucial for carbon sequestration and climate stability,0.02543415092985207,5,2,user_72
+2022-02-17 17:23:40.183486240,Climate scientists warn of accelerating global warming,0.06709112482768752,13,0,user_98
+2022-02-19 05:56:41.834862384,Sea level rise threatens coastal communities worldwide #green,-0.34505497732487045,3,8,user_4
+2022-02-20 18:29:43.486238528,Innovative technologies emerge to combat climate crisis #green,-0.22087966093232916,19,2,user_11
+2022-02-22 07:02:45.137614672,Carbon emissions continue to rise despite climate agreements #sustainability,-0.11166740667101471,11,2,user_41
+2022-02-23 19:35:46.788990816,Sustainable practices can help mitigate climate change effects #green,-0.02336893929441261,8,0,user_27
+2022-02-25 08:08:48.440366960,Carbon emissions continue to rise despite climate agreements,-0.043135392691928585,7,2,user_82
+2022-02-26 20:41:50.091743120,Forests are crucial for carbon sequestration and climate stability #green,0.0026142044401965964,16,0,user_2
+2022-02-28 09:14:51.743119264,Sustainable practices can help mitigate climate change effects,0.17481370691208353,19,6,user_19
+2022-03-01 21:47:53.394495408,Forests are crucial for carbon sequestration and climate stability,-0.0403437698621358,3,0,user_8
+2022-03-03 10:20:55.045871552,Climate activists demand immediate action from world leaders,0.20619247854880812,4,0,user_46
+2022-03-04 22:53:56.697247696,Carbon emissions continue to rise despite climate agreements,0.10358846615535836,9,2,user_37
+2022-03-06 11:26:58.348623840,Forests are crucial for carbon sequestration and climate stability,0.12313809361794324,1,2,user_93
+2022-03-08 00:00:00.000000000,Climate activists demand immediate action from world leaders,0.20013065370772257,12,0,user_6
+2022-03-09 12:33:01.651376144,Carbon emissions continue to rise despite climate agreements #climate,-0.20993562644190256,10,1,user_49
+2022-03-11 01:06:03.302752288,Climate activists demand immediate action from world leaders #environment,-0.14045495258503898,4,0,user_1
+2022-03-12 13:39:04.954128432,Carbon emissions continue to rise despite climate agreements #climate,-0.09811037139497357,3,5,user_80
+2022-03-14 02:12:06.605504576,Sea level rise threatens coastal communities worldwide,0.04877748210843382,9,3,user_12
+2022-03-15 14:45:08.256880736,Sea level rise threatens coastal communities worldwide,0.07873225056465234,9,10,user_36
+2022-03-17 03:18:09.908256880,Climate activists demand immediate action from world leaders,0.08140755190512293,1,0,user_79
+2022-03-18 15:51:11.559633024,NASA releases new climate data showing alarming temperature trends #green,0.05018971969985057,2,3,user_25
+2022-03-20 04:24:13.211009168,Sustainable practices can help mitigate climate change effects #climate,0.02324866184193672,15,11,user_39
+2022-03-21 16:57:14.862385312,New renewable energy breakthrough could help fight climate change #environment,0.06769210206330682,7,1,user_42
+2022-03-23 05:30:16.513761456,Climate change impacts biodiversity and ecosystem health,-0.20744863510163114,6,4,user_93
+2022-03-24 18:03:18.165137616,Arctic ice melting faster than predicted by climate models #climate,0.08316375589515773,11,11,user_93
+2022-03-26 06:36:19.816513760,Climate activists demand immediate action from world leaders #sustainability,0.19399808180928202,7,2,user_89
+2022-03-27 19:09:21.467889904,Sea level rise threatens coastal communities worldwide #green,-0.3341064713301569,8,2,user_54
+2022-03-29 07:42:23.119266048,Climate activists demand immediate action from world leaders,0.16095260452086013,2,8,user_5
+2022-03-30 20:15:24.770642192,Sea level rise threatens coastal communities worldwide,0.00853886101349583,8,0,user_20
+2022-04-01 08:48:26.422018336,Ocean temperatures reach record highs this month,-0.11068904045496411,25,1,user_62
+2022-04-02 21:21:28.073394496,Sea level rise threatens coastal communities worldwide #sustainability,0.012599894749496205,9,1,user_44
+2022-04-04 09:54:29.724770640,Climate change impacts biodiversity and ecosystem health #sustainability,0.08063654246577089,5,1,user_63
+2022-04-05 22:27:31.376146784,Sea level rise threatens coastal communities worldwide,0.006807226924862103,21,1,user_17
+2022-04-07 11:00:33.027522928,Carbon emissions continue to rise despite climate agreements,0.08438638321783622,17,0,user_16
+2022-04-08 23:33:34.678899072,Carbon emissions continue to rise despite climate agreements,-0.17295023996326478,16,2,user_10
+2022-04-10 12:06:36.330275216,Sea level rise threatens coastal communities worldwide,-0.03251627324216249,3,4,user_97
+2022-04-12 00:39:37.981651376,Sea level rise threatens coastal communities worldwide,-0.06836342822863876,11,4,user_39
+2022-04-13 13:12:39.633027520,Carbon emissions continue to rise despite climate agreements #green,-0.16345047969088852,13,3,user_68
+2022-04-15 01:45:41.284403664,Forests are crucial for carbon sequestration and climate stability,-0.14506216533528082,7,3,user_19
+2022-04-16 14:18:42.935779808,Sea level rise threatens coastal communities worldwide,0.019163196206738904,19,2,user_29
+2022-04-18 02:51:44.587155952,Forests are crucial for carbon sequestration and climate stability,-0.021138422981796898,2,3,user_92
+2022-04-19 15:24:46.238532096,Climate education is essential for future generations,0.011965930451893354,4,1,user_77
+2022-04-21 03:57:47.889908256,New renewable energy breakthrough could help fight climate change,0.023345763415168003,3,7,user_26
+2022-04-22 16:30:49.541284400,New renewable energy breakthrough could help fight climate change,-0.01219397064671121,23,3,user_89
+2022-04-24 05:03:51.192660544,Innovative technologies emerge to combat climate crisis,0.45224759110621304,16,4,user_88
+2022-04-25 17:36:52.844036688,Ocean temperatures reach record highs this month #climate,-0.28841544357623344,6,1,user_78
+2022-04-27 06:09:54.495412832,Carbon emissions continue to rise despite climate agreements,0.10062577730028915,6,2,user_87
+2022-04-28 18:42:56.146788992,Climate scientists warn of accelerating global warming,0.0907487586221472,0,11,user_88
+2022-04-30 07:15:57.798165136,Climate change impacts biodiversity and ecosystem health,0.036039339501808015,12,0,user_90
+2022-05-01 19:48:59.449541280,Carbon emissions continue to rise despite climate agreements #green,-0.13576274083584322,27,3,user_46
+2022-05-03 08:22:01.100917424,Climate scientists warn of accelerating global warming,-0.020598971623780354,5,6,user_13
+2022-05-04 20:55:02.752293568,Arctic ice melting faster than predicted by climate models #green,-0.22520387365862882,10,2,user_60
+2022-05-06 09:28:04.403669712,Arctic ice melting faster than predicted by climate models #sustainability,0.1600163638865061,17,0,user_38
+2022-05-07 22:01:06.055045872,International cooperation needed to address climate emergency #environment,-0.0018023252729382488,3,1,user_26
+2022-05-09 10:34:07.706422016,Sea level rise threatens coastal communities worldwide,-0.04124790118879367,4,0,user_87
+2022-05-10 23:07:09.357798160,New renewable energy breakthrough could help fight climate change #sustainability,0.06145571469850809,7,4,user_24
+2022-05-12 11:40:11.009174304,Climate education is essential for future generations #sustainability,0.036102514514275534,16,6,user_75
+2022-05-14 00:13:12.660550448,Ocean temperatures reach record highs this month,0.2587908973530685,54,9,user_29
+2022-05-15 12:46:14.311926592,Forests are crucial for carbon sequestration and climate stability,0.05711580368167886,13,0,user_26
+2022-05-17 01:19:15.963302752,Ocean temperatures reach record highs this month,-0.09921477886932202,1,7,user_71
+2022-05-18 13:52:17.614678896,Climate scientists warn of accelerating global warming,0.10911490925355023,7,0,user_45
+2022-05-20 02:25:19.266055040,Climate scientists warn of accelerating global warming,-0.08185986993908019,1,1,user_6
+2022-05-21 14:58:20.917431184,Ocean temperatures reach record highs this month #sustainability,-0.07589706989033448,3,10,user_62
+2022-05-23 03:31:22.568807328,Carbon emissions continue to rise despite climate agreements,-0.14360915125350568,1,2,user_4
+2022-05-24 16:04:24.220183472,New renewable energy breakthrough could help fight climate change,0.24478346076799062,12,0,user_41
+2022-05-26 04:37:25.871559632,Sea level rise threatens coastal communities worldwide,-0.06973091506990274,9,6,user_49
+2022-05-27 17:10:27.522935776,NASA releases new climate data showing alarming temperature trends,-0.033071592882836835,4,3,user_48
+2022-05-29 05:43:29.174311920,New renewable energy breakthrough could help fight climate change #environment,0.1058166334388495,10,1,user_29
+2022-05-30 18:16:30.825688064,International cooperation needed to address climate emergency #environment,-0.022041692749820856,3,0,user_87
+2022-06-01 06:49:32.477064208,Climate activists demand immediate action from world leaders #environment,0.1675609961503058,11,6,user_65
+2022-06-02 19:22:34.128440368,Sustainable practices can help mitigate climate change effects,-0.18070413949318165,5,1,user_13
+2022-06-04 07:55:35.779816512,Climate education is essential for future generations,-0.029263062033020527,6,0,user_73
+2022-06-05 20:28:37.431192656,Innovative technologies emerge to combat climate crisis #climate,0.6071965367599127,7,1,user_54
+2022-06-07 09:01:39.082568800,Innovative technologies emerge to combat climate crisis #climate,0.4932128618300518,18,5,user_22
+2022-06-08 21:34:40.733944944,Extreme weather events becoming more frequent due to climate change,0.16284659392122888,5,1,user_74
+2022-06-10 10:07:42.385321088,Climate education is essential for future generations,0.10438459948070787,4,2,user_20
+2022-06-11 22:40:44.036697248,New renewable energy breakthrough could help fight climate change,0.23286159141225016,18,6,user_61
+2022-06-13 11:13:45.688073392,Sustainable practices can help mitigate climate change effects,-0.047500323861704385,6,5,user_51
+2022-06-14 23:46:47.339449536,NASA releases new climate data showing alarming temperature trends,0.19155808733397234,10,0,user_89
+2022-06-16 12:19:48.990825680,Ocean temperatures reach record highs this month #environment,0.14146146181411082,1,3,user_16
+2022-06-18 00:52:50.642201824,Climate activists demand immediate action from world leaders #sustainability,0.26180920181695655,6,0,user_96
+2022-06-19 13:25:52.293577968,Extreme weather events becoming more frequent due to climate change #green,0.003635769817363216,8,1,user_14
+2022-06-21 01:58:53.944954128,Extreme weather events becoming more frequent due to climate change,0.15383819552077274,21,8,user_49
+2022-06-22 14:31:55.596330272,Extreme weather events becoming more frequent due to climate change,0.17864608751356595,8,11,user_8
+2022-06-24 03:04:57.247706416,International cooperation needed to address climate emergency #green,-0.12042193678241093,9,3,user_37
+2022-06-25 15:37:58.899082560,Forests are crucial for carbon sequestration and climate stability #climate,-0.08506132529519478,4,3,user_44
+2022-06-27 04:11:00.550458704,Forests are crucial for carbon sequestration and climate stability,0.07665513543377717,31,6,user_76
+2022-06-28 16:44:02.201834848,Climate activists demand immediate action from world leaders,-0.04104272038242296,16,0,user_77
+2022-06-30 05:17:03.853211008,Sustainable practices can help mitigate climate change effects,-0.02034611410803049,8,7,user_97
+2022-07-01 17:50:05.504587152,Climate education is essential for future generations,0.008595738801721547,5,1,user_16
+2022-07-03 06:23:07.155963296,Arctic ice melting faster than predicted by climate models,-0.05001978170959958,15,2,user_49
+2022-07-04 18:56:08.807339440,International cooperation needed to address climate emergency,-0.201262191651977,7,10,user_45
+2022-07-06 07:29:10.458715584,Climate education is essential for future generations,-0.07111108145530551,25,5,user_29
+2022-07-07 20:02:12.110091744,International cooperation needed to address climate emergency,-0.08990390621219452,5,9,user_73
+2022-07-09 08:35:13.761467888,Arctic ice melting faster than predicted by climate models,0.007092320030914249,5,5,user_65
+2022-07-10 21:08:15.412844032,Extreme weather events becoming more frequent due to climate change,0.05482495699077494,0,1,user_75
+2022-07-12 09:41:17.064220176,NASA releases new climate data showing alarming temperature trends,0.08476265708555372,3,8,user_76
+2022-07-13 22:14:18.715596320,Climate education is essential for future generations,0.07534194635024308,5,2,user_9
+2022-07-15 10:47:20.366972464,Sustainable practices can help mitigate climate change effects,-0.13896296708555456,17,1,user_63
+2022-07-16 23:20:22.018348624,Ocean temperatures reach record highs this month #green,-0.27275357018597757,5,5,user_75
+2022-07-18 11:53:23.669724768,Climate change impacts biodiversity and ecosystem health #environment,-0.1339991069574885,21,9,user_62
+2022-07-20 00:26:25.321100912,International cooperation needed to address climate emergency,-0.11815231616646271,6,0,user_99
+2022-07-21 12:59:26.972477056,Ocean temperatures reach record highs this month,-0.10455294856740532,7,3,user_16
+2022-07-23 01:32:28.623853200,International cooperation needed to address climate emergency,-0.02521534658435748,17,4,user_83
+2022-07-24 14:05:30.275229344,Carbon emissions continue to rise despite climate agreements,-0.03440639567042266,5,10,user_93
+2022-07-26 02:38:31.926605504,NASA releases new climate data showing alarming temperature trends,-0.09019171881219845,6,2,user_13
+2022-07-27 15:11:33.577981648,Climate change impacts biodiversity and ecosystem health,0.008463977854321375,5,2,user_65
+2022-07-29 03:44:35.229357792,NASA releases new climate data showing alarming temperature trends,0.0383750382884138,3,0,user_70
+2022-07-30 16:17:36.880733936,Carbon emissions continue to rise despite climate agreements,-0.059154720767214564,3,3,user_28
+2022-08-01 04:50:38.532110080,Climate education is essential for future generations,0.20673821703374484,12,1,user_76
+2022-08-02 17:23:40.183486224,Climate scientists warn of accelerating global warming,0.027005862096297878,6,3,user_33
+2022-08-04 05:56:41.834862384,Extreme weather events becoming more frequent due to climate change,0.2987007319124921,14,2,user_70
+2022-08-05 18:29:43.486238528,Climate education is essential for future generations,0.17159076311326946,9,8,user_3
+2022-08-07 07:02:45.137614672,Ocean temperatures reach record highs this month,0.11116221515087088,4,5,user_96
+2022-08-08 19:35:46.788990816,Extreme weather events becoming more frequent due to climate change,0.13760276635564442,6,1,user_79
+2022-08-10 08:08:48.440366960,Climate education is essential for future generations,-0.09472750850418088,16,0,user_38
+2022-08-11 20:41:50.091743120,Innovative technologies emerge to combat climate crisis #climate,0.6072196715938487,26,3,user_88
+2022-08-13 09:14:51.743119264,Sustainable practices can help mitigate climate change effects,0.11282397832688376,7,5,user_26
+2022-08-14 21:47:53.394495408,Sustainable practices can help mitigate climate change effects #green,-0.425281705904917,2,2,user_67
+2022-08-16 10:20:55.045871552,International cooperation needed to address climate emergency,-0.1984043903188063,4,1,user_18
+2022-08-17 22:53:56.697247696,Extreme weather events becoming more frequent due to climate change #green,0.11796222726319232,22,2,user_10
+2022-08-19 11:26:58.348623840,Extreme weather events becoming more frequent due to climate change,0.2108657804279841,6,0,user_88
+2022-08-21 00:00:00.000000000,Arctic ice melting faster than predicted by climate models,0.006837156596765876,1,5,user_71
+2022-08-22 12:33:01.651376144,Forests are crucial for carbon sequestration and climate stability,0.2002682766408592,9,4,user_92
+2022-08-24 01:06:03.302752288,Carbon emissions continue to rise despite climate agreements #environment,-0.016228244716741405,8,2,user_60
+2022-08-25 13:39:04.954128432,Climate activists demand immediate action from world leaders,0.03961410687630454,11,4,user_64
+2022-08-27 02:12:06.605504576,Sea level rise threatens coastal communities worldwide,0.08999118663887735,13,16,user_4
+2022-08-28 14:45:08.256880720,Sustainable practices can help mitigate climate change effects,-0.15536124295754047,1,1,user_70
+2022-08-30 03:18:09.908256880,Sustainable practices can help mitigate climate change effects,0.10821627775104015,7,3,user_47
+2022-08-31 15:51:11.559633024,Innovative technologies emerge to combat climate crisis,0.5101751050771639,16,8,user_60
+2022-09-02 04:24:13.211009168,Sustainable practices can help mitigate climate change effects #sustainability,-0.01904461859292168,5,2,user_41
+2022-09-03 16:57:14.862385312,Climate education is essential for future generations #green,-0.05512240305023901,7,1,user_25
+2022-09-05 05:30:16.513761456,NASA releases new climate data showing alarming temperature trends,0.038409858943940084,0,1,user_60
+2022-09-06 18:03:18.165137600,Climate education is essential for future generations,0.09665442505206123,5,2,user_20
+2022-09-08 06:36:19.816513760,Extreme weather events becoming more frequent due to climate change,0.2116644445935967,10,3,user_73
+2022-09-09 19:09:21.467889904,Extreme weather events becoming more frequent due to climate change,0.010867978865878286,24,3,user_31
+2022-09-11 07:42:23.119266048,Forests are crucial for carbon sequestration and climate stability,0.07614979809850861,23,11,user_61
+2022-09-12 20:15:24.770642192,Climate education is essential for future generations #green,-0.020934238557990113,23,0,user_30
+2022-09-14 08:48:26.422018336,Ocean temperatures reach record highs this month,0.18510541768497663,8,2,user_80
+2022-09-15 21:21:28.073394496,New renewable energy breakthrough could help fight climate change,0.12574422735966104,12,4,user_37
+2022-09-17 09:54:29.724770640,Arctic ice melting faster than predicted by climate models,-0.012452242443886458,0,5,user_42
+2022-09-18 22:27:31.376146784,Sustainable practices can help mitigate climate change effects,0.1441942401952601,9,1,user_9
+2022-09-20 11:00:33.027522928,Ocean temperatures reach record highs this month,0.18342020358562744,15,1,user_48
+2022-09-21 23:33:34.678899072,Climate education is essential for future generations,-0.16744694604532454,19,3,user_90
+2022-09-23 12:06:36.330275216,Extreme weather events becoming more frequent due to climate change,0.25303688911586003,2,4,user_59
+2022-09-25 00:39:37.981651376,Climate scientists warn of accelerating global warming,-0.329625301198253,3,2,user_45
+2022-09-26 13:12:39.633027520,Climate change impacts biodiversity and ecosystem health,0.10858983828772915,3,0,user_64
+2022-09-28 01:45:41.284403664,Carbon emissions continue to rise despite climate agreements,-0.06093947565959276,11,0,user_79
+2022-09-29 14:18:42.935779808,NASA releases new climate data showing alarming temperature trends #environment,0.1425223979005344,21,0,user_1
+2022-10-01 02:51:44.587155952,Ocean temperatures reach record highs this month,-0.017898344139169086,6,7,user_48
+2022-10-02 15:24:46.238532096,Ocean temperatures reach record highs this month #climate,0.07839676512169459,2,0,user_88
+2022-10-04 03:57:47.889908256,Forests are crucial for carbon sequestration and climate stability #sustainability,0.13924559414830676,8,3,user_57
+2022-10-05 16:30:49.541284400,Forests are crucial for carbon sequestration and climate stability,-0.13990784281844756,1,6,user_29
+2022-10-07 05:03:51.192660544,New renewable energy breakthrough could help fight climate change,0.2935791843539079,11,7,user_10
+2022-10-08 17:36:52.844036688,Carbon emissions continue to rise despite climate agreements,-0.015196738231603888,16,1,user_96
+2022-10-10 06:09:54.495412832,Sustainable practices can help mitigate climate change effects,-0.10979885674197974,10,2,user_24
+2022-10-11 18:42:56.146788976,International cooperation needed to address climate emergency,0.0797850701382139,1,1,user_52
+2022-10-13 07:15:57.798165136,Climate scientists warn of accelerating global warming #climate,0.04861712414658739,16,1,user_39
+2022-10-14 19:48:59.449541280,Extreme weather events becoming more frequent due to climate change #climate,0.1853706719491813,4,0,user_3
+2022-10-16 08:22:01.100917424,Climate change impacts biodiversity and ecosystem health,-0.0796064137720634,40,3,user_3
+2022-10-17 20:55:02.752293568,Arctic ice melting faster than predicted by climate models,0.20879936825100942,16,2,user_85
+2022-10-19 09:28:04.403669712,Sea level rise threatens coastal communities worldwide,-0.15444338482482445,9,3,user_19
+2022-10-20 22:01:06.055045872,Climate education is essential for future generations,-0.15754046858217163,5,1,user_56
+2022-10-22 10:34:07.706422016,Climate scientists warn of accelerating global warming #climate,0.02290497382521189,4,10,user_86
+2022-10-23 23:07:09.357798160,Innovative technologies emerge to combat climate crisis #environment,0.4230406535497693,15,7,user_32
+2022-10-25 11:40:11.009174304,Climate activists demand immediate action from world leaders #environment,0.10007555074545955,24,5,user_68
+2022-10-27 00:13:12.660550448,Forests are crucial for carbon sequestration and climate stability #sustainability,0.02398577458492966,12,2,user_8
+2022-10-28 12:46:14.311926592,Arctic ice melting faster than predicted by climate models #climate,-0.10363648841320956,10,4,user_83
+2022-10-30 01:19:15.963302752,Extreme weather events becoming more frequent due to climate change,0.2538723616238159,3,5,user_57
+2022-10-31 13:52:17.614678896,Sea level rise threatens coastal communities worldwide,0.017146931759039096,1,5,user_63
+2022-11-02 02:25:19.266055040,Climate activists demand immediate action from world leaders #environment,0.06788409612942975,1,5,user_41
+2022-11-03 14:58:20.917431184,Ocean temperatures reach record highs this month,-0.018871159973983392,31,2,user_50
+2022-11-05 03:31:22.568807328,Sustainable practices can help mitigate climate change effects #green,-0.196562823896974,4,3,user_77
+2022-11-06 16:04:24.220183472,Climate activists demand immediate action from world leaders,-0.005732260281209989,4,1,user_49
+2022-11-08 04:37:25.871559632,Climate activists demand immediate action from world leaders,0.11682084062304987,17,1,user_95
+2022-11-09 17:10:27.522935776,Sustainable practices can help mitigate climate change effects,0.051688848539557956,12,4,user_30
+2022-11-11 05:43:29.174311920,Climate activists demand immediate action from world leaders,0.07031274206425939,19,1,user_82
+2022-11-12 18:16:30.825688064,Carbon emissions continue to rise despite climate agreements,-0.0959814005645044,7,4,user_3
+2022-11-14 06:49:32.477064208,Ocean temperatures reach record highs this month,-0.03652808582038849,33,4,user_40
+2022-11-15 19:22:34.128440352,NASA releases new climate data showing alarming temperature trends,0.10077723374382458,5,3,user_97
+2022-11-17 07:55:35.779816512,Climate activists demand immediate action from world leaders,0.19041822469747066,4,2,user_83
+2022-11-18 20:28:37.431192656,International cooperation needed to address climate emergency,-0.04904144607484205,5,2,user_60
+2022-11-20 09:01:39.082568800,Climate education is essential for future generations,0.026425476360733908,8,3,user_48
+2022-11-21 21:34:40.733944944,Sea level rise threatens coastal communities worldwide,0.024540406120581157,9,4,user_72
+2022-11-23 10:07:42.385321088,Climate activists demand immediate action from world leaders #green,-0.032392071106862014,16,3,user_44
+2022-11-24 22:40:44.036697248,New renewable energy breakthrough could help fight climate change,0.29772178282361594,4,0,user_42
+2022-11-26 11:13:45.688073392,NASA releases new climate data showing alarming temperature trends,0.149867384143808,7,16,user_89
+2022-11-27 23:46:47.339449536,Sustainable practices can help mitigate climate change effects,0.08078709144721968,7,2,user_43
+2022-11-29 12:19:48.990825680,Climate change impacts biodiversity and ecosystem health #sustainability,-0.14416451465108135,12,3,user_29
+2022-12-01 00:52:50.642201824,Extreme weather events becoming more frequent due to climate change,0.10525924772331267,3,0,user_71
+2022-12-02 13:25:52.293577968,Climate education is essential for future generations #climate,0.0185067830451961,13,0,user_23
+2022-12-04 01:58:53.944954128,Ocean temperatures reach record highs this month #climate,0.08959726602245455,9,1,user_4
+2022-12-05 14:31:55.596330272,Innovative technologies emerge to combat climate crisis,0.4226970290397297,5,1,user_92
+2022-12-07 03:04:57.247706416,Climate change impacts biodiversity and ecosystem health #green,-0.23445865357346335,4,4,user_18
+2022-12-08 15:37:58.899082560,NASA releases new climate data showing alarming temperature trends,0.13122336896846876,1,1,user_18
+2022-12-10 04:11:00.550458704,NASA releases new climate data showing alarming temperature trends,0.038541327875348766,12,8,user_11
+2022-12-11 16:44:02.201834848,Sustainable practices can help mitigate climate change effects,-0.1477280707132125,1,11,user_86
+2022-12-13 05:17:03.853211008,Climate education is essential for future generations #environment,0.03624114628754515,10,5,user_2
+2022-12-14 17:50:05.504587152,Carbon emissions continue to rise despite climate agreements #green,-0.15126835167810884,5,0,user_83
+2022-12-16 06:23:07.155963296,Forests are crucial for carbon sequestration and climate stability,0.07452783300763459,1,7,user_95
+2022-12-17 18:56:08.807339440,Innovative technologies emerge to combat climate crisis,0.35245885989059766,22,1,user_7
+2022-12-19 07:29:10.458715584,Arctic ice melting faster than predicted by climate models #sustainability,-0.10971436496288141,3,6,user_93
+2022-12-20 20:02:12.110091728,Arctic ice melting faster than predicted by climate models,-0.05399387077816568,2,1,user_99
+2022-12-22 08:35:13.761467888,International cooperation needed to address climate emergency,0.02340913614577646,4,7,user_62
+2022-12-23 21:08:15.412844032,NASA releases new climate data showing alarming temperature trends,-0.008374233070035951,20,3,user_15
+2022-12-25 09:41:17.064220176,New renewable energy breakthrough could help fight climate change #environment,0.21536517726145427,21,1,user_65
+2022-12-26 22:14:18.715596320,Ocean temperatures reach record highs this month,0.08960775894952894,5,4,user_15
+2022-12-28 10:47:20.366972464,NASA releases new climate data showing alarming temperature trends,0.12295022429265791,23,4,user_93
+2022-12-29 23:20:22.018348624,Climate scientists warn of accelerating global warming,0.04373479326078074,8,0,user_27
+2022-12-31 11:53:23.669724768,New renewable energy breakthrough could help fight climate change #climate,0.02310850223700686,10,1,user_79
+2023-01-02 00:26:25.321100912,Extreme weather events becoming more frequent due to climate change,0.12892602267235476,32,5,user_56
+2023-01-03 12:59:26.972477056,Climate change impacts biodiversity and ecosystem health #green,-0.17340674136817377,7,1,user_80
+2023-01-05 01:32:28.623853200,Arctic ice melting faster than predicted by climate models #sustainability,0.013965368956535083,6,4,user_93
+2023-01-06 14:05:30.275229344,Climate change impacts biodiversity and ecosystem health,0.09102157836647454,7,0,user_43
+2023-01-08 02:38:31.926605504,Sea level rise threatens coastal communities worldwide,0.04210849902198062,9,2,user_69
+2023-01-09 15:11:33.577981648,Sustainable practices can help mitigate climate change effects #sustainability,-0.031861624222723955,1,1,user_29
+2023-01-11 03:44:35.229357792,International cooperation needed to address climate emergency,0.14667825568989762,4,1,user_98
+2023-01-12 16:17:36.880733936,Ocean temperatures reach record highs this month,0.08809151690332453,8,5,user_26
+2023-01-14 04:50:38.532110080,Carbon emissions continue to rise despite climate agreements,0.1127686294516429,22,1,user_27
+2023-01-15 17:23:40.183486224,Arctic ice melting faster than predicted by climate models #green,-0.23275108200805447,13,0,user_10
+2023-01-17 05:56:41.834862384,Climate change impacts biodiversity and ecosystem health #environment,-0.07964568076460576,3,0,user_46
+2023-01-18 18:29:43.486238528,Arctic ice melting faster than predicted by climate models #climate,0.06149121541573556,12,0,user_89
+2023-01-20 07:02:45.137614672,International cooperation needed to address climate emergency #sustainability,0.1418929004178735,15,1,user_17
+2023-01-21 19:35:46.788990816,NASA releases new climate data showing alarming temperature trends,-0.07440717220729683,7,5,user_70
+2023-01-23 08:08:48.440366960,Carbon emissions continue to rise despite climate agreements,0.06238959430765766,44,0,user_47
+2023-01-24 20:41:50.091743104,Forests are crucial for carbon sequestration and climate stability #green,-0.10133328470364619,5,11,user_34
+2023-01-26 09:14:51.743119264,NASA releases new climate data showing alarming temperature trends #climate,-0.1363117740335219,2,0,user_10
+2023-01-27 21:47:53.394495408,International cooperation needed to address climate emergency #climate,-0.08208789224096869,5,3,user_97
+2023-01-29 10:20:55.045871552,Sea level rise threatens coastal communities worldwide #environment,-0.06775924297784516,4,1,user_93
+2023-01-30 22:53:56.697247696,Extreme weather events becoming more frequent due to climate change,0.21899376323283803,8,1,user_90
+2023-02-01 11:26:58.348623840,Innovative technologies emerge to combat climate crisis #climate,0.5314577547412611,3,5,user_50
+2023-02-03 00:00:00.000000000,Climate education is essential for future generations,-0.20673148867236435,5,5,user_18
+2023-02-04 12:33:01.651376144,Sea level rise threatens coastal communities worldwide,-0.05292025716587673,10,1,user_45
+2023-02-06 01:06:03.302752288,Forests are crucial for carbon sequestration and climate stability #climate,0.0022136485381206166,5,0,user_86
+2023-02-07 13:39:04.954128432,New renewable energy breakthrough could help fight climate change,0.40029452327985426,31,6,user_61
+2023-02-09 02:12:06.605504576,Ocean temperatures reach record highs this month,0.17852568660765003,13,6,user_59
+2023-02-10 14:45:08.256880720,Ocean temperatures reach record highs this month,-0.07012270685967494,8,2,user_99
+2023-02-12 03:18:09.908256880,Innovative technologies emerge to combat climate crisis #environment,0.6352800534896725,9,3,user_47
+2023-02-13 15:51:11.559633024,Climate education is essential for future generations,-0.10165243621826024,8,1,user_68
+2023-02-15 04:24:13.211009168,Climate change impacts biodiversity and ecosystem health #green,-0.12638067598976627,2,1,user_93
+2023-02-16 16:57:14.862385312,New renewable energy breakthrough could help fight climate change,0.2084862907385101,10,3,user_10
+2023-02-18 05:30:16.513761456,International cooperation needed to address climate emergency #climate,-0.07067647896524065,10,6,user_32
+2023-02-19 18:03:18.165137600,Carbon emissions continue to rise despite climate agreements,-0.07214304640536182,19,1,user_89
+2023-02-21 06:36:19.816513760,Arctic ice melting faster than predicted by climate models #green,-0.14693168769899523,4,0,user_83
+2023-02-22 19:09:21.467889904,Innovative technologies emerge to combat climate crisis #climate,0.5993334501607768,20,5,user_35
+2023-02-24 07:42:23.119266048,International cooperation needed to address climate emergency,-0.20638850467544914,11,5,user_21
+2023-02-25 20:15:24.770642192,Sea level rise threatens coastal communities worldwide #climate,0.2498430483721495,9,1,user_62
+2023-02-27 08:48:26.422018336,Climate scientists warn of accelerating global warming,0.12470734662138937,17,0,user_3
+2023-02-28 21:21:28.073394480,International cooperation needed to address climate emergency,0.13972233517338725,14,4,user_36
+2023-03-02 09:54:29.724770640,NASA releases new climate data showing alarming temperature trends #green,0.07231286901929238,12,4,user_83
+2023-03-03 22:27:31.376146784,International cooperation needed to address climate emergency,-0.06960201616009519,5,13,user_78
+2023-03-05 11:00:33.027522928,Forests are crucial for carbon sequestration and climate stability,0.05900047611044712,40,3,user_45
+2023-03-06 23:33:34.678899072,Carbon emissions continue to rise despite climate agreements #green,-0.11577517652402165,11,4,user_20
+2023-03-08 12:06:36.330275216,Arctic ice melting faster than predicted by climate models #green,-0.1698964145327647,10,1,user_40
+2023-03-10 00:39:37.981651376,Extreme weather events becoming more frequent due to climate change,0.20837788340027777,15,0,user_44
+2023-03-11 13:12:39.633027520,Extreme weather events becoming more frequent due to climate change,0.22959321009408495,4,0,user_82
+2023-03-13 01:45:41.284403664,Innovative technologies emerge to combat climate crisis,0.3446106995552457,31,4,user_91
+2023-03-14 14:18:42.935779808,Climate scientists warn of accelerating global warming,0.05817817706283626,3,4,user_83
+2023-03-16 02:51:44.587155952,New renewable energy breakthrough could help fight climate change,0.30261914447503857,8,2,user_4
+2023-03-17 15:24:46.238532096,Carbon emissions continue to rise despite climate agreements,0.13460997945142578,19,0,user_45
+2023-03-19 03:57:47.889908256,Forests are crucial for carbon sequestration and climate stability,0.05203804150674787,8,8,user_19
+2023-03-20 16:30:49.541284400,Forests are crucial for carbon sequestration and climate stability #climate,-0.006285349709034437,6,2,user_85
+2023-03-22 05:03:51.192660544,Climate scientists warn of accelerating global warming #environment,-0.07094248395934932,7,5,user_30
+2023-03-23 17:36:52.844036688,Arctic ice melting faster than predicted by climate models,0.15847662340598578,12,0,user_45
+2023-03-25 06:09:54.495412832,Carbon emissions continue to rise despite climate agreements,-0.044759719051641354,12,1,user_6
+2023-03-26 18:42:56.146788976,Carbon emissions continue to rise despite climate agreements #green,-0.18121996619574782,0,6,user_69
+2023-03-28 07:15:57.798165136,New renewable energy breakthrough could help fight climate change,0.1538330665835891,10,3,user_18
+2023-03-29 19:48:59.449541280,Sea level rise threatens coastal communities worldwide,0.02534147598742997,10,1,user_41
+2023-03-31 08:22:01.100917424,Ocean temperatures reach record highs this month,0.0712759778953743,6,1,user_77
+2023-04-01 20:55:02.752293568,NASA releases new climate data showing alarming temperature trends,0.10467265094006585,9,0,user_91
+2023-04-03 09:28:04.403669712,Climate scientists warn of accelerating global warming,-0.08534954800613416,4,0,user_46
+2023-04-04 22:01:06.055045856,Climate education is essential for future generations #environment,-0.03248836219917387,3,0,user_55
+2023-04-06 10:34:07.706422016,Sustainable practices can help mitigate climate change effects #green,-0.2801093175562346,9,5,user_40
+2023-04-07 23:07:09.357798160,NASA releases new climate data showing alarming temperature trends,-0.061637204336301876,10,2,user_47
+2023-04-09 11:40:11.009174304,Ocean temperatures reach record highs this month,-0.07199895332219391,3,2,user_90
+2023-04-11 00:13:12.660550448,Extreme weather events becoming more frequent due to climate change,0.15061254450266404,12,3,user_9
+2023-04-12 12:46:14.311926592,Carbon emissions continue to rise despite climate agreements #climate,0.00895220507606513,8,1,user_88
+2023-04-14 01:19:15.963302752,New renewable energy breakthrough could help fight climate change,0.20643300164463124,20,6,user_60
+2023-04-15 13:52:17.614678896,Extreme weather events becoming more frequent due to climate change #climate,0.22756186509289905,14,0,user_69
+2023-04-17 02:25:19.266055040,Climate change impacts biodiversity and ecosystem health,0.11910906831461916,8,0,user_26
+2023-04-18 14:58:20.917431184,Innovative technologies emerge to combat climate crisis,0.4744549568618484,32,2,user_15
+2023-04-20 03:31:22.568807328,New renewable energy breakthrough could help fight climate change,0.28786105875702206,1,1,user_34
+2023-04-21 16:04:24.220183472,Climate change impacts biodiversity and ecosystem health,-0.08386700358846094,6,3,user_36
+2023-04-23 04:37:25.871559632,Extreme weather events becoming more frequent due to climate change #sustainability,0.02182297575164449,1,0,user_80
+2023-04-24 17:10:27.522935776,International cooperation needed to address climate emergency,0.1783922595201769,4,1,user_73
+2023-04-26 05:43:29.174311920,New renewable energy breakthrough could help fight climate change,0.06949322988740765,17,0,user_92
+2023-04-27 18:16:30.825688064,Climate activists demand immediate action from world leaders,0.08696018848072712,3,0,user_43
+2023-04-29 06:49:32.477064208,New renewable energy breakthrough could help fight climate change,0.08574473025510274,7,3,user_49
+2023-04-30 19:22:34.128440352,NASA releases new climate data showing alarming temperature trends,0.04695157888298994,11,3,user_83
+2023-05-02 07:55:35.779816512,Climate change impacts biodiversity and ecosystem health,0.08197397172580949,7,9,user_65
+2023-05-03 20:28:37.431192656,Ocean temperatures reach record highs this month,0.2473266082762811,30,2,user_89
+2023-05-05 09:01:39.082568800,Extreme weather events becoming more frequent due to climate change,0.23293118165382784,3,5,user_58
+2023-05-06 21:34:40.733944944,Ocean temperatures reach record highs this month,-0.016414941272177394,8,0,user_34
+2023-05-08 10:07:42.385321088,Sustainable practices can help mitigate climate change effects,-0.0462190715847827,1,3,user_35
+2023-05-09 22:40:44.036697232,Forests are crucial for carbon sequestration and climate stability,-0.026162883990801307,8,4,user_24
+2023-05-11 11:13:45.688073392,Sustainable practices can help mitigate climate change effects,0.21066604716644363,32,4,user_12
+2023-05-12 23:46:47.339449536,New renewable energy breakthrough could help fight climate change,0.11550935431574971,2,1,user_4
+2023-05-14 12:19:48.990825680,Climate scientists warn of accelerating global warming,-0.19645360381029248,1,19,user_38
+2023-05-16 00:52:50.642201824,Sustainable practices can help mitigate climate change effects,-0.011129290760530697,14,1,user_4
+2023-05-17 13:25:52.293577968,Sea level rise threatens coastal communities worldwide,-0.017284567481411092,5,3,user_20
+2023-05-19 01:58:53.944954128,Sustainable practices can help mitigate climate change effects #sustainability,0.18259972117410467,8,5,user_22
+2023-05-20 14:31:55.596330272,Extreme weather events becoming more frequent due to climate change,0.2139167844153057,43,1,user_76
+2023-05-22 03:04:57.247706416,Ocean temperatures reach record highs this month,-0.01693266018339602,18,0,user_37
+2023-05-23 15:37:58.899082560,Sustainable practices can help mitigate climate change effects #sustainability,-0.10835151070098109,11,9,user_99
+2023-05-25 04:11:00.550458704,Innovative technologies emerge to combat climate crisis #sustainability,0.5051108034876902,42,4,user_81
+2023-05-26 16:44:02.201834848,Carbon emissions continue to rise despite climate agreements #sustainability,0.013173682644749225,8,7,user_60
+2023-05-28 05:17:03.853211008,Forests are crucial for carbon sequestration and climate stability,0.11228921233039249,4,5,user_71
+2023-05-29 17:50:05.504587152,Climate education is essential for future generations,0.16918348375245837,26,1,user_64
+2023-05-31 06:23:07.155963296,Climate activists demand immediate action from world leaders,0.09032398968131107,10,1,user_78
+2023-06-01 18:56:08.807339440,Climate change impacts biodiversity and ecosystem health #environment,-0.05167337414509551,2,8,user_30
+2023-06-03 07:29:10.458715584,Climate change impacts biodiversity and ecosystem health,-0.054639657705040694,11,0,user_85
+2023-06-04 20:02:12.110091728,Climate education is essential for future generations,-0.05540677974289097,7,0,user_46
+2023-06-06 08:35:13.761467888,Carbon emissions continue to rise despite climate agreements #sustainability,0.12704472836586175,19,0,user_35
+2023-06-07 21:08:15.412844032,International cooperation needed to address climate emergency,0.07145306910521688,11,3,user_66
+2023-06-09 09:41:17.064220176,Climate scientists warn of accelerating global warming,-0.07171819007224715,7,0,user_50
+2023-06-10 22:14:18.715596320,Extreme weather events becoming more frequent due to climate change,0.1313007814209001,20,1,user_78
+2023-06-12 10:47:20.366972464,Climate change impacts biodiversity and ecosystem health,-0.13011092663913454,11,9,user_67
+2023-06-13 23:20:22.018348608,Sea level rise threatens coastal communities worldwide,0.10099554967070808,2,0,user_76
+2023-06-15 11:53:23.669724768,Carbon emissions continue to rise despite climate agreements #environment,-0.06684549108531777,12,6,user_30
+2023-06-17 00:26:25.321100912,New renewable energy breakthrough could help fight climate change,0.2480317638703886,12,3,user_32
+2023-06-18 12:59:26.972477056,New renewable energy breakthrough could help fight climate change,0.14871086781449036,6,2,user_63
+2023-06-20 01:32:28.623853200,Climate change impacts biodiversity and ecosystem health,-0.0014699469129002053,1,1,user_46
+2023-06-21 14:05:30.275229344,Forests are crucial for carbon sequestration and climate stability,0.1560255529530931,1,4,user_47
+2023-06-23 02:38:31.926605504,Arctic ice melting faster than predicted by climate models,-0.02347653514388171,6,1,user_89
+2023-06-24 15:11:33.577981648,NASA releases new climate data showing alarming temperature trends #sustainability,0.07698948569860135,17,0,user_68
+2023-06-26 03:44:35.229357792,Climate education is essential for future generations #sustainability,0.11228254938852754,6,5,user_72
+2023-06-27 16:17:36.880733936,Climate education is essential for future generations #climate,-0.016046355181704455,12,4,user_78
+2023-06-29 04:50:38.532110080,Climate education is essential for future generations,0.07769316923548288,2,1,user_95
+2023-06-30 17:23:40.183486224,NASA releases new climate data showing alarming temperature trends,-0.0032078306826136722,19,1,user_16
+2023-07-02 05:56:41.834862384,Climate activists demand immediate action from world leaders,0.10326388366908715,26,8,user_60
+2023-07-03 18:29:43.486238528,Forests are crucial for carbon sequestration and climate stability,-0.06116015792028642,5,8,user_61
+2023-07-05 07:02:45.137614672,Carbon emissions continue to rise despite climate agreements,0.12239363442378902,6,2,user_86
+2023-07-06 19:35:46.788990816,New renewable energy breakthrough could help fight climate change #green,0.011740609851002087,1,3,user_98
+2023-07-08 08:08:48.440366960,Sea level rise threatens coastal communities worldwide #climate,0.11183812821105804,2,6,user_95
+2023-07-09 20:41:50.091743104,Forests are crucial for carbon sequestration and climate stability,0.032465823550251835,8,1,user_38
+2023-07-11 09:14:51.743119264,Extreme weather events becoming more frequent due to climate change,0.18362236462642328,4,2,user_86
+2023-07-12 21:47:53.394495408,Sustainable practices can help mitigate climate change effects,-0.07882191047163173,17,1,user_11
+2023-07-14 10:20:55.045871552,International cooperation needed to address climate emergency,-0.09341542070495419,19,3,user_51
+2023-07-15 22:53:56.697247696,Sustainable practices can help mitigate climate change effects,0.12434691283459637,4,3,user_40
+2023-07-17 11:26:58.348623840,Sustainable practices can help mitigate climate change effects,0.08285552286978894,3,7,user_73
+2023-07-18 23:59:59.999999984,Forests are crucial for carbon sequestration and climate stability,0.24886746958387684,37,1,user_70
+2023-07-20 12:33:01.651376144,Forests are crucial for carbon sequestration and climate stability,-0.1592945048209974,11,2,user_83
+2023-07-22 01:06:03.302752288,Innovative technologies emerge to combat climate crisis #environment,0.5199665959772884,14,9,user_9
+2023-07-23 13:39:04.954128432,Sustainable practices can help mitigate climate change effects,-0.09487486952680002,4,3,user_10
+2023-07-25 02:12:06.605504576,NASA releases new climate data showing alarming temperature trends,-0.011631239744766209,1,6,user_34
+2023-07-26 14:45:08.256880720,Carbon emissions continue to rise despite climate agreements #sustainability,-0.19340877454595773,9,2,user_99
+2023-07-28 03:18:09.908256864,Sea level rise threatens coastal communities worldwide #green,-0.2527994021765614,15,0,user_47
+2023-07-29 15:51:11.559633024,Forests are crucial for carbon sequestration and climate stability,-0.023893182145712108,10,3,user_64
+2023-07-31 04:24:13.211009152,Carbon emissions continue to rise despite climate agreements #green,-0.26099729420946527,6,6,user_99
+2023-08-01 16:57:14.862385312,NASA releases new climate data showing alarming temperature trends,0.10373581310713091,15,7,user_21
+2023-08-03 05:30:16.513761472,Carbon emissions continue to rise despite climate agreements,-0.002208631499157738,4,5,user_23
+2023-08-04 18:03:18.165137600,Extreme weather events becoming more frequent due to climate change,0.16385551687843175,24,3,user_70
+2023-08-06 06:36:19.816513760,Arctic ice melting faster than predicted by climate models #climate,-0.056736380560710634,12,2,user_67
+2023-08-07 19:09:21.467889888,NASA releases new climate data showing alarming temperature trends,0.0868676092830438,0,6,user_47
+2023-08-09 07:42:23.119266048,Arctic ice melting faster than predicted by climate models,0.09947552852644237,7,3,user_90
+2023-08-10 20:15:24.770642208,Carbon emissions continue to rise despite climate agreements #climate,0.05670453254852337,15,0,user_46
+2023-08-12 08:48:26.422018336,Climate change impacts biodiversity and ecosystem health,-0.12703620463250861,15,0,user_69
+2023-08-13 21:21:28.073394496,Innovative technologies emerge to combat climate crisis,0.6700134910399937,8,12,user_2
+2023-08-15 09:54:29.724770624,Arctic ice melting faster than predicted by climate models #environment,-0.11208471535655698,7,2,user_5
+2023-08-16 22:27:31.376146784,Climate activists demand immediate action from world leaders,0.09491992113804665,16,2,user_40
+2023-08-18 11:00:33.027522912,NASA releases new climate data showing alarming temperature trends #climate,0.04576306499161567,1,1,user_24
+2023-08-19 23:33:34.678899072,Climate change impacts biodiversity and ecosystem health #climate,-0.062398320723644256,3,1,user_8
+2023-08-21 12:06:36.330275232,Sustainable practices can help mitigate climate change effects,-0.1917348886010299,1,7,user_13
+2023-08-23 00:39:37.981651360,New renewable energy breakthrough could help fight climate change,0.2401097467145336,46,0,user_6
+2023-08-24 13:12:39.633027520,Forests are crucial for carbon sequestration and climate stability #environment,0.00836993986155093,9,2,user_78
+2023-08-26 01:45:41.284403648,Ocean temperatures reach record highs this month,0.0648881925903839,12,1,user_54
+2023-08-27 14:18:42.935779808,New renewable energy breakthrough could help fight climate change,0.26171865301337316,31,0,user_44
+2023-08-29 02:51:44.587155968,Climate education is essential for future generations,-0.030702049761275153,1,1,user_43
+2023-08-30 15:24:46.238532096,Climate change impacts biodiversity and ecosystem health,-0.16322227407245196,5,3,user_67
+2023-09-01 03:57:47.889908256,Innovative technologies emerge to combat climate crisis #green,0.11340677892231274,31,2,user_35
+2023-09-02 16:30:49.541284384,International cooperation needed to address climate emergency #climate,-0.030635770977837696,1,3,user_60
+2023-09-04 05:03:51.192660544,Climate change impacts biodiversity and ecosystem health #sustainability,-0.17240963615931792,13,1,user_83
+2023-09-05 17:36:52.844036704,Forests are crucial for carbon sequestration and climate stability #environment,0.08286393794248759,4,0,user_83
+2023-09-07 06:09:54.495412832,Forests are crucial for carbon sequestration and climate stability,-0.05269250061566547,7,3,user_7
+2023-09-08 18:42:56.146788992,International cooperation needed to address climate emergency,0.0036967520549108174,9,6,user_48
+2023-09-10 07:15:57.798165120,Innovative technologies emerge to combat climate crisis #climate,0.5053830788713671,27,5,user_13
+2023-09-11 19:48:59.449541280,Climate education is essential for future generations,-0.1560282498664445,25,2,user_76
+2023-09-13 08:22:01.100917408,Climate scientists warn of accelerating global warming,0.0018575945162973527,4,4,user_62
+2023-09-14 20:55:02.752293568,Innovative technologies emerge to combat climate crisis,0.47459802609830243,23,9,user_42
+2023-09-16 09:28:04.403669728,Climate scientists warn of accelerating global warming,-0.09370025133623829,20,2,user_52
+2023-09-17 22:01:06.055045856,Arctic ice melting faster than predicted by climate models,0.029572562627075027,8,1,user_79
+2023-09-19 10:34:07.706422016,International cooperation needed to address climate emergency,0.03586285785619036,9,5,user_93
+2023-09-20 23:07:09.357798144,Climate change impacts biodiversity and ecosystem health #environment,-0.10398073344765253,17,2,user_48
+2023-09-22 11:40:11.009174304,Forests are crucial for carbon sequestration and climate stability,0.10186908504244077,6,4,user_75
+2023-09-24 00:13:12.660550464,Innovative technologies emerge to combat climate crisis,0.4443001471137098,22,19,user_49
+2023-09-25 12:46:14.311926592,Innovative technologies emerge to combat climate crisis,0.5402298855688381,10,9,user_83
+2023-09-27 01:19:15.963302752,Arctic ice melting faster than predicted by climate models,0.056751346128961336,13,1,user_77
+2023-09-28 13:52:17.614678880,Climate change impacts biodiversity and ecosystem health,0.05740419308840301,15,0,user_63
+2023-09-30 02:25:19.266055040,NASA releases new climate data showing alarming temperature trends,-0.032287650792736475,8,3,user_85
+2023-10-01 14:58:20.917431168,New renewable energy breakthrough could help fight climate change,0.2405430258951563,6,3,user_27
+2023-10-03 03:31:22.568807328,Extreme weather events becoming more frequent due to climate change,0.11716817422022441,9,4,user_10
+2023-10-04 16:04:24.220183488,NASA releases new climate data showing alarming temperature trends,-0.15847805375957674,8,0,user_89
+2023-10-06 04:37:25.871559616,Extreme weather events becoming more frequent due to climate change,0.11490059829706903,11,3,user_6
+2023-10-07 17:10:27.522935776,Sustainable practices can help mitigate climate change effects,-0.06957191244670856,11,5,user_5
+2023-10-09 05:43:29.174311904,Arctic ice melting faster than predicted by climate models #sustainability,0.2056451330655989,3,6,user_37
+2023-10-10 18:16:30.825688064,Climate scientists warn of accelerating global warming,-0.061677536151970774,2,0,user_36
+2023-10-12 06:49:32.477064224,Carbon emissions continue to rise despite climate agreements,0.11815631368820914,7,1,user_25
+2023-10-13 19:22:34.128440352,International cooperation needed to address climate emergency #climate,-0.06333242820376819,26,0,user_45
+2023-10-15 07:55:35.779816512,Climate scientists warn of accelerating global warming,-0.029200667620471778,5,5,user_97
+2023-10-16 20:28:37.431192640,Sea level rise threatens coastal communities worldwide,0.1730601357534718,20,2,user_67
+2023-10-18 09:01:39.082568800,Carbon emissions continue to rise despite climate agreements,-0.06809698594164493,30,2,user_45
+2023-10-19 21:34:40.733944960,Extreme weather events becoming more frequent due to climate change #environment,0.1178513464148481,28,2,user_37
+2023-10-21 10:07:42.385321088,Climate education is essential for future generations,0.020545568703630286,4,2,user_82
+2023-10-22 22:40:44.036697248,International cooperation needed to address climate emergency #climate,-0.12192863858260627,6,0,user_62
+2023-10-24 11:13:45.688073376,Climate scientists warn of accelerating global warming,0.061096434424664316,9,2,user_28
+2023-10-25 23:46:47.339449536,Arctic ice melting faster than predicted by climate models #climate,-0.07907709190853537,5,1,user_75
+2023-10-27 12:19:48.990825664,Climate activists demand immediate action from world leaders,0.030929207407107986,9,1,user_82
+2023-10-29 00:52:50.642201824,Climate change impacts biodiversity and ecosystem health,-0.09380074240317506,11,2,user_18
+2023-10-30 13:25:52.293577984,Arctic ice melting faster than predicted by climate models,0.10581700938241018,12,10,user_79
+2023-11-01 01:58:53.944954112,Climate scientists warn of accelerating global warming,0.004652846593370863,10,9,user_33
+2023-11-02 14:31:55.596330272,Innovative technologies emerge to combat climate crisis #green,-0.04701485016645346,7,1,user_22
+2023-11-04 03:04:57.247706400,Innovative technologies emerge to combat climate crisis #climate,0.4518304951259315,6,2,user_67
+2023-11-05 15:37:58.899082560,Climate activists demand immediate action from world leaders,0.07407761182145209,3,4,user_66
+2023-11-07 04:11:00.550458720,Carbon emissions continue to rise despite climate agreements,0.09414356201495588,18,2,user_34
+2023-11-08 16:44:02.201834848,Sea level rise threatens coastal communities worldwide,0.08901755427204745,14,4,user_8
+2023-11-10 05:17:03.853211008,NASA releases new climate data showing alarming temperature trends,-0.09722216975028654,10,4,user_24
+2023-11-11 17:50:05.504587136,Sea level rise threatens coastal communities worldwide,-0.02340980382069601,17,0,user_81
+2023-11-13 06:23:07.155963296,Forests are crucial for carbon sequestration and climate stability #green,-0.051464009244680996,3,0,user_3
+2023-11-14 18:56:08.807339456,Extreme weather events becoming more frequent due to climate change,0.25585319612986146,7,2,user_74
+2023-11-16 07:29:10.458715584,Arctic ice melting faster than predicted by climate models,0.15050620386083302,3,14,user_23
+2023-11-17 20:02:12.110091744,NASA releases new climate data showing alarming temperature trends,0.10166466830106351,4,1,user_53
+2023-11-19 08:35:13.761467872,Climate change impacts biodiversity and ecosystem health #sustainability,0.024668877033605638,20,5,user_91
+2023-11-20 21:08:15.412844032,NASA releases new climate data showing alarming temperature trends #climate,-0.06715812922209298,11,15,user_86
+2023-11-22 09:41:17.064220160,New renewable energy breakthrough could help fight climate change,0.14059484246889506,3,0,user_4
+2023-11-23 22:14:18.715596320,Climate activists demand immediate action from world leaders #green,-0.07732922173729864,1,10,user_3
+2023-11-25 10:47:20.366972480,NASA releases new climate data showing alarming temperature trends #climate,0.04936618138500824,4,1,user_68
+2023-11-26 23:20:22.018348608,Climate scientists warn of accelerating global warming,0.06485776726027095,2,1,user_11
+2023-11-28 11:53:23.669724768,Forests are crucial for carbon sequestration and climate stability,-0.20507998559941482,3,3,user_58
+2023-11-30 00:26:25.321100896,Sustainable practices can help mitigate climate change effects,-0.028998135443663992,9,1,user_74
+2023-12-01 12:59:26.972477056,Arctic ice melting faster than predicted by climate models #green,-0.2499872430410852,9,2,user_6
+2023-12-03 01:32:28.623853216,Ocean temperatures reach record highs this month,0.16527489558168795,19,0,user_44
+2023-12-04 14:05:30.275229344,International cooperation needed to address climate emergency,0.08918630221607488,3,2,user_99
+2023-12-06 02:38:31.926605504,Innovative technologies emerge to combat climate crisis #green,0.2046331706001751,14,3,user_41
+2023-12-07 15:11:33.577981632,International cooperation needed to address climate emergency #sustainability,-0.0818693424226141,14,1,user_19
+2023-12-09 03:44:35.229357792,Sea level rise threatens coastal communities worldwide,0.07903935386389695,10,2,user_81
+2023-12-10 16:17:36.880733920,New renewable energy breakthrough could help fight climate change,0.17362845501164187,11,2,user_32
+2023-12-12 04:50:38.532110080,NASA releases new climate data showing alarming temperature trends,0.03316852732059594,9,0,user_30
+2023-12-13 17:23:40.183486240,Climate scientists warn of accelerating global warming,0.021000830802258907,13,1,user_68
+2023-12-15 05:56:41.834862368,Climate activists demand immediate action from world leaders #sustainability,0.07183526177450693,13,0,user_14
+2023-12-16 18:29:43.486238528,Arctic ice melting faster than predicted by climate models,0.0796965795509925,25,0,user_74
+2023-12-18 07:02:45.137614656,New renewable energy breakthrough could help fight climate change,0.006553245994920576,8,0,user_44
+2023-12-19 19:35:46.788990816,Climate activists demand immediate action from world leaders #green,0.022903598557271962,23,1,user_80
+2023-12-21 08:08:48.440366976,Ocean temperatures reach record highs this month #environment,0.11917937173895472,19,0,user_81
+2023-12-22 20:41:50.091743104,Climate activists demand immediate action from world leaders,0.11079839207252289,43,6,user_14
+2023-12-24 09:14:51.743119264,Arctic ice melting faster than predicted by climate models,0.021861148653470556,3,1,user_6
+2023-12-25 21:47:53.394495392,Climate scientists warn of accelerating global warming #sustainability,-0.05492281394953985,3,1,user_77
+2023-12-27 10:20:55.045871552,Sea level rise threatens coastal communities worldwide,-0.06798885397361863,19,1,user_34
+2023-12-28 22:53:56.697247712,Extreme weather events becoming more frequent due to climate change,0.23211195208758523,13,1,user_78
+2023-12-30 11:26:58.348623840,Carbon emissions continue to rise despite climate agreements #green,-0.2896367547825181,10,5,user_26
+2024-01-01 00:00:00.000000000,Climate change impacts biodiversity and ecosystem health #climate,-0.005883285413152221,6,4,user_57
