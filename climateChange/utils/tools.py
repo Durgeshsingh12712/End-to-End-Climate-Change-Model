@@ -1,6 +1,5 @@
-import os, sys, pickle, yaml, json, joblib
+import os, sys, joblib, yaml, json, joblib
 from pathlib import Path
-from typing import Any
 from box import ConfigBox
 from box.exceptions import BoxValueError
 from ensure import ensure_annotations
@@ -89,7 +88,7 @@ def load_object(file_path):
     """Load Pickle File"""
     try:
         with open(file_path, 'rb') as file_obj:
-            return pickle.load(file_obj)
+            return joblib.load(file_obj)
     
     except Exception as e:
         logger.error(f"Error loading object from {file_path}")
@@ -102,7 +101,7 @@ def save_object(file_path, obj):
         os.makedirs(dir_path, exist_ok= True)
 
         with open(file_path, 'wb') as file_obj:
-            pickle.dump(obj, file_obj)
+            joblib.dump(obj, file_obj)
     except Exception as e:
         logger.error(f"Error Saving object to {file_path}: {e}")
         raise CCException(e, sys)

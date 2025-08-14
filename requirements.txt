@@ -1,6 +1,7 @@
 numpy
 pandas
 PyYAML
+joblib
 python-box
 scikit-learn
 matplotlib
