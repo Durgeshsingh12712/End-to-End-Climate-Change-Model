@@ -4,6 +4,18 @@
 
 An end-to-end MLOps pipeline for predicting climate anomalies using machine learning, combining climate data with social media sentiment analysis.
 
+## **Homepage**
+![My Image](https://github.com/Durgeshsingh12712/Data-All/blob/main/Unified%20Dataset/Unified/climate%201.png)
+
+## **Demo**
+[![Climate Change Model](https://img.youtube.com/vi/PTt42_hnWQA/maxresdefault.jpg)](https://youtu.be/PTt42_hnWQA)
+
+## **About**
+![My Image](https://github.com/Durgeshsingh12712/Data-All/blob/main/Unified%20Dataset/Unified/climate%202.png)
+
+## **Predicr**
+![My Image](https://github.com/Durgeshsingh12712/Data-All/blob/main/Unified%20Dataset/Unified/climate%203.png)
+
 ## 📋 Table of Contents
 
 - [Project Overview](#project-overview)
